@@ -1,104 +1,41 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
-author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/16.jpg
+title:  "Family Hike to the Blue Pools"
+author: camuel
+categories: [ ddaily, hiking, family, vlog ]
+image: https://snap1.d.tube/ipfs/QmWFCajLw3iJifHkDhnCgxKysSje9n8nVU1DCQX4uiQqnp
+featured: false
+hidden: false
 ---
-There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
 
-As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
+<video poster="https://snap1.d.tube/ipfs/QmWFCajLw3iJifHkDhnCgxKysSje9n8nVU1DCQX4uiQqnp" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmUbKWweJT2VCrYdGXHs4q8z5WEtjitJcY3KqPZZbY6ZJq"></video>
 
+We had a rare family day out, thanks to my lovely wife's making us all get out the house. We're so blessed to live where we do and we rarely take advantage of it as a family, which is a real shame. We'll definitely get back up there again later in the year for some swimming. 
 
-## Special formatting
+▶FOLLOW ME◀
+Instagram: https://www.instagram.com/acousticguitario/
+Facebook: https://www.facebook.com/acousticguitario/
 
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
+★SUPPORT ME★
 
-+ ~~strike through~~
-+ ==highlight==
-+ \*escaped characters\*
+Below are Amazon affiliate links that you can use to support my channel and my content. Click them to visit Amazon in your locale and then anything you buy in that browsing session will support me as a solo content creator. 
 
+Thank you. 
 
-## Writing code blocks
+▶Gear Used in this Video◀
 
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
-
-```
-.my-link {
-    text-decoration: underline;
-}
-```
-
-#### HTML
-
-```html
-<li class="ml-1 mr-1">
-    <a target="_blank" href="#">
-    <i class="fab fa-twitter"></i>
-    </a>
-</li>
-```
-
-#### CSS
-
-```css
-.highlight .c {
-    color: #999988;
-    font-style: italic; 
-}
-.highlight .err {
-    color: #a61717;
-    background-color: #e3d2d2; 
-}
-```
-
-#### JS
-
-```js
-// alertbar later
-$(document).scroll(function () {
-    var y = $(this).scrollTop();
-    if (y > 280) {
-        $('.alertbar').fadeIn();
-    } else {
-        $('.alertbar').fadeOut();
-    }
-});
-```
-
-#### Python
-
-```python
-print("Hello World")
-```
-
-#### Ruby
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
-#### C
-
-```c
-printf("Hello World");
-```
+Camera - https://geni.us/9mEAt
+Lens - https://geni.us/pbNjeu
+RØDE Mic: https://geni.us/mqEtu0
+SmallRig Cage: https://geni.us/grqfnj
+Coldshoe: https://geni.us/RQpCzOQ
+Mini Tripod: https://geni.us/v0Xy
 
 
+Hi, I'm Cams, a music teacher on the Isle of Arran in Scotland. I've been playing guitar since 1991 and gigging for over 15 years. I teach privately at my home on Arran and enjoy making video lessons and podcasts about the guitar world. I am what could safely be called a guitar geek! 
 
+If you want to know more about me and my instruments, check out http://acousticguitar.io and http://camsmusic.net
 
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
+Thank you for watching!
+Cams
 
-## Reference lists
-
-The quick brown jumped over the lazy.
-
-Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.
-
-## Full HTML
-
-Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
