@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  '🎥 Cryptocurrency Market Overview | 13.05.2019'
+title: '🎥 Cryptocurrency Market Overview | 13.05.2019'
 author: 'cryptospa'
 categories: [ cryptospa,steem,dapps,bitcoin ]
 image: https://snap1.d.tube/ipfs/QmVMNCkMcNUBSdmMt5edkhFyN86BxWJmj4K8RUxHu642jA

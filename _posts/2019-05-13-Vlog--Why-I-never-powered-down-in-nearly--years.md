@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Vlog 406: Why I never powered down in nearly 3 years.'
+title: 'Vlog 406: Why I never powered down in nearly 3 years.'
 author: 'exyle'
 categories: [ exyle ]
 image: https://snap1.d.tube/ipfs/QmSG6TyYiErgNmPQVfLzC231i46SaPq3Wb7s8GBVSSNeiE

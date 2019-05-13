@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'How To Draw A Dog Cute By EdgarsArt'
+title: 'How To Draw A Dog Cute By EdgarsArt'
 author: 'edgarsart'
 categories: [ dtube,onelovedtube,art,life ]
 image: https://snap1.d.tube/ipfs/QmcD8AgMZJ9NMGw9N1b5JWSACxaXoJay9aBiPPVMiuBG59

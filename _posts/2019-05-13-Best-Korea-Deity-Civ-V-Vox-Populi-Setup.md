@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  '(Best Korea) Deity Civ V Vox Populi Setup'
+title: '(Best Korea) Deity Civ V Vox Populi Setup'
 author: 'fiveboringgames'
 categories: [ gaming,video,letsplay,civ ]
 image: https://snap1.d.tube/ipfs/QmZbBRZns8Wb9zwEpBycb3cWMKkZFJMDfhZc89auC54sBV

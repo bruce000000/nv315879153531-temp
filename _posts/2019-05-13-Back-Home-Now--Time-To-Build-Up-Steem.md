@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Back Home Now - Time To Build Up Steem'
+title: 'Back Home Now - Time To Build Up Steem'
 author: 'adetorrent'
 categories: [ travel,steem,crypto,lifestyle ]
 image: https://snap1.d.tube/ipfs/QmWmCxsPQiVDeh1wTKjDbovTfpivMsdxFWceqKXLh4QUKM
