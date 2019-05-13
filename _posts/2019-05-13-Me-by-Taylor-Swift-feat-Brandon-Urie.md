@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74655537
-permlink: 9jlk0wss
 title:  Me! by Taylor Swift feat. Brandon Urie
 author: rachelleignacio
 categories: music,acoustic,cover,steemph
 image: https://snap1.d.tube/ipfs/QmcVgptmzZz3TW9jTw4aXj23h5Khwt8HR7v6ws5vyHTc5g
-duration: 215.202
 featured: false
 hidden: false
 ---

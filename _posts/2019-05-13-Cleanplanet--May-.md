@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74653913
-permlink: r58t2kw8
 title:  Cleanplanet 13 May 19
 author: cummins
 categories: cleanplanet,vlog,nature,bd
 image: https://snap1.d.tube/ipfs/Qmf5KPZw4LrVwQ49thBe6JrRGsr3e9vqvQbX9baazP7ocg
-duration: 140.318186
 featured: false
 hidden: false
 ---

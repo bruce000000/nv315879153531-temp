@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74666314
-permlink: jy9rxzsb
 title:  LAST STATE OF THE PROJECT @dtube.forum 13/05/2019
 author: dtube.forum
 categories: dtube,dtubeforum,event,fundition-nki4yaz5z
 image: https://snap1.d.tube/ipfs/QmZUyLJr1UAUc3gVgAH5Ghuec3ZsdN9z835ppHMoPvEDuC
-duration: 384.851118
 featured: false
 hidden: false
 ---

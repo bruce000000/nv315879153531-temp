@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74662362
-permlink: w3v7npu5
 title:  🎥 Cryptocurrency Market Overview | 13.05.2019
 author: cryptospa
 categories: cryptospa,steem,dapps,bitcoin
 image: https://snap1.d.tube/ipfs/QmVMNCkMcNUBSdmMt5edkhFyN86BxWJmj4K8RUxHu642jA
-duration: 792.734
 featured: false
 hidden: false
 ---

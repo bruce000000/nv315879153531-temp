@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74667737
-permlink: j2hpgfuz
 title:  Back Home Now - Time To Build Up Steem
 author: adetorrent
 categories: travel,steem,crypto,lifestyle
 image: https://snap1.d.tube/ipfs/Qmdai2vF8zjjDWvUoX3BvY2JmvRJGz2w5sd25s23i1Rmr2
-duration: 229.875
 featured: false
 hidden: false
 ---

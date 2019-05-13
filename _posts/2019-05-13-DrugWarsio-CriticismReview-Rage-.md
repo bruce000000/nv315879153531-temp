@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74653774
-permlink: rx725jx5
 title:  DrugWars.io Criticism/Review (Rage?) 
 author: joeyadrian
 categories: dapp,drugwars,criticism,review
 image: https://snap1.d.tube/ipfs/QmWi5SYAHkhEbVmWGWKFcRWBStfLVcfs7oN3h9PqbsMzbi
-duration: 627.760467
 featured: false
 hidden: false
 ---

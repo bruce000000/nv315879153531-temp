@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74670689
-permlink: bc0bo7nq
 title:  Clean Planet Bag #50 (jubilee!) on 13.05.2019
 author: dailyplogger
 categories: cleanplanet,onewasteaday,life,nature
 image: https://snap1.d.tube/ipfs/QmQeD5y5j4KUueFN7pMciwC6r5pe5T9PKgwbgK3BFyszxC
-duration: 109.888
 featured: false
 hidden: false
 ---

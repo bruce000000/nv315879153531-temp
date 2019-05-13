@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74658667
-permlink: qpw9jkfx
 title:  It's Monday 13th May! Happy New Week! Motivate your post with#STEEMLove (drop a link to an undervalued post for possibility of resteem upvote and tweet) 
 author: felt.buzz
 categories: powerhousecreatives,thealliance,theluvbug,steemlove
 image: https://snap1.d.tube/ipfs/QmVeJapCRs78HQXkuHk4XpZ8UH4z5WQ4dG8istSmRsyQ13
-duration: 171.015
 featured: false
 hidden: false
 ---

@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74662759
-permlink: itfsts73
 title:  Make a Good Liaison with your Followers
 author: hafizullah
 categories: mindset,connectivity,engagement,steem
 image: https://snap1.d.tube/ipfs/Qmf5BTTqKFWrU6jSybnYdrvTHEWQzor9eajhXiiDNW796m
-duration: 167.221533
 featured: false
 hidden: false
 ---

@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74654560
-permlink: g1w8vuno
 title:  HAPPY MOTHER'S DAY - To My Mom, My Beautiful Fiance, All the Women in Our Family and to All the Lifegiver's of the World - Much Love & Respect Always
 author: jeronimorubio
 categories: celebration,mothers-day,happiness,onelovedtube
 image: https://snap1.d.tube/ipfs/QmXufafbS3ctMgzU5JXZKY2GdTmTxtFQTbQ39vpA6fumRK
-duration: 538.913
 featured: false
 hidden: false
 ---

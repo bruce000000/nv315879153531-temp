@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74666909
-permlink: 0rcm7lv6
 title:  ⚔️ D.TUBE® TRYHARDING SOLO DUNGEON | HARD MODE: ON | ALBION ONLINE ⚔️
 author: dirapa
 categories: dtubegaming,gaming,gameplay,video
 image: https://snap1.d.tube/ipfs/QmYA2UjfxCfjBz23ANsSBqr4UXYfBxYSVxYj3S3ACf14Yk
-duration: 1123.968
 featured: false
 hidden: false
 ---

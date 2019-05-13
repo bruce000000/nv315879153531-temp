@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74661196
-permlink: m75dehoj
 title:  My Father Learning How To Facebook
 author: cryptopie
 categories: dtube,technology,father
 image: https://snap1.d.tube/ipfs/Qmer1qBXueDNxgeHhxzcjXU7CUPZbLimpMwUHAxPewW2hL
-duration: 48.682
 featured: false
 hidden: false
 ---

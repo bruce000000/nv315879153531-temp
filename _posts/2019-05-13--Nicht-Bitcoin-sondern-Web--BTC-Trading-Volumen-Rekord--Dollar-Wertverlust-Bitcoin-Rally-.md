@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74652502
-permlink: ktq695f4
 title:  #617 Nicht Bitcoin, sondern Web 3.0, BTC Trading Volumen Rekord & Dollar Wertverlust Bitcoin Rally 
 author: denniskoray
 categories: bitcoin,deutsch,cryptocurrency,blockchain
 image: https://snap1.d.tube/ipfs/QmQZA7jF8mF6PVLG2oxQq25gfnAdYFYtjgVjuQPQJwVBFd
-duration: 748.0473
 featured: false
 hidden: false
 ---

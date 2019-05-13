@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74664344
-permlink: 4k49wpvg
 title:  Let's play Slay the Spire - Episode 296 - Daily for 12-May-2019
 author: danmaruschak
 categories: gaming,slaythespire,letsplay
 image: https://snap1.d.tube/ipfs/QmYPo6qwDaMgiav7Moub8wyyFymdP8KApadzTkv34dZZPQ
-duration: 1554.167
 featured: false
 hidden: false
 ---

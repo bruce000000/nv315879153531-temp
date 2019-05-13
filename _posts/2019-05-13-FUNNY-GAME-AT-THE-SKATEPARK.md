@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74668096
-permlink: ezn07l81
 title:  FUNNY GAME AT THE SKATEPARK!!!
 author: alexjay
 categories: funny,game,fun,skatepark
 image: https://snap1.d.tube/ipfs/QmXyHdYZr7khTEKbJaHL9moQ2ahmaDGRAav5Ec6ArxJd9h
-duration: 164.224
 featured: false
 hidden: false
 ---

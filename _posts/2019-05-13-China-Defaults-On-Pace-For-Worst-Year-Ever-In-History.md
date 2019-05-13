@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74649526
-permlink: 93n4dtvc
 title:  China Defaults On Pace For Worst Year Ever In History!
 author: themoneygps
 categories: china,yuan,debt,trump
 image: https://snap1.d.tube/ipfs/QmWkhV6rPgqyavsmviPE8B3pVZMj4RiJYT9BRfi65oFRfL
-duration: 860.252
 featured: false
 hidden: false
 ---

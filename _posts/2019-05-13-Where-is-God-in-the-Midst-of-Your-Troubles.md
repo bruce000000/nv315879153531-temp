@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74670403
-permlink: dz19vfyq
 title:  Where is God in the Midst of Your Troubles
 author: thoughtfultalks
 categories: suffering,trouble,god,life
 image: https://snap1.d.tube/ipfs/QmcCMsGpWPecGvAZQQWDw7fjC3FV6qNLBvi3jMJZ584ULa
-duration: 5199.68
 featured: false
 hidden: false
 ---

@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74649774
-permlink: chfw9c4x
 title:  The Reasons for Psychological Ineptitude In Decision-making
 author: josediccus
 categories: psychology,steem,mindset,ocd
 image: https://snap1.d.tube/ipfs/QmNTfTs3A8wuf5VWBdP175qPLnQJaq2dUtf3C3t3vK1bWH
-duration: 412.677
 featured: false
 hidden: false
 ---

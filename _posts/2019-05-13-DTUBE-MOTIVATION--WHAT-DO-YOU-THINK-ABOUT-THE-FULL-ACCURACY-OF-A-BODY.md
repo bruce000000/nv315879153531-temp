@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74665554
-permlink: q2iaaulj
 title:  #DTUBE MOTIVATION - WHAT DO YOU THINK ABOUT THE FULL ACCURACY OF A BODY?
 author: madushanka
 categories: dmotivation,self-growing,accuracy,successtips
 image: https://snap1.d.tube/ipfs/QmQ7Qx5Qu7i2jvhzQ14T5bLPiXAE8f4bXqbRkFGCkAvg8g
-duration: 143.893333
 featured: false
 hidden: false
 ---

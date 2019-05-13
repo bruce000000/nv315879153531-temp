@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74651403
-permlink: 085rhoir
 title:  Why You Really Should Sell Your Old Stuff
 author: scottcbusiness
 categories: finance,selling,marketplace,vlog
 image: https://snap1.d.tube/ipfs/QmU56fDPwWBqZwjrBMP8pWFDwAAaZd7MZPQ2yqvqTiEg4d
-duration: 479.296
 featured: false
 hidden: false
 ---

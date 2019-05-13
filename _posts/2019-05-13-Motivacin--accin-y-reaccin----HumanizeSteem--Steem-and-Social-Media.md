@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74670886
-permlink: 5lmxfsor
 title:  Motivación 2019 acción y reacción 👽🎇 🇻🇪 #68 #HumanizeSteem - Steem and Social Media
 author: purapapita
 categories: humanizesteem,seven77,steem,spanish
 image: https://snap1.d.tube/ipfs/QmVByoM2otH34AQVtHqZgnmSW4v6AjJyh2Horgt4uj4vzL
-duration: 185.44
 featured: false
 hidden: false
 ---

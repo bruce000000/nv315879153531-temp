@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74670505
-permlink: xbuvpzfc
 title:  Review - Dead to Me - TV Series
 author: navaneeth
 categories: tvseries,india,dtubedaily
 image: https://snap1.d.tube/ipfs/Qmd7NxSu6FXwS78ZSZ3XCwYBoojUoGBhHFRMnFmXmEWAVz
-duration: 288.580438
 featured: false
 hidden: false
 ---

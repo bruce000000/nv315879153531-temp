@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74666132
-permlink: zxh393jh
 title:  Enlightenment From Lighthouses
 author: ericdubay
 categories: flat,earth,lighthouse,lighthouses
 image: https://snap1.d.tube/ipfs/QmVMyh8ESsW9VoREkfQcKtQmc1vRpscxY4qKGXM6CWxiKX
-duration: 928.473106
 featured: false
 hidden: false
 ---

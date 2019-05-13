@@ -1,12 +1,9 @@
 ---
 layout: post
-id: 74663689
-permlink: w6y4ng6q
 title:  #392. My little research on Daaps
 author: jacksonchakma
 categories: daaps,tron,steem,profits
 image: https://snap1.d.tube/ipfs/QmUxV9mqn15JMP5MtqdDP3QfmZ2REahGe9pzQfhi495mYF
-duration: 183.558375
 featured: false
 hidden: false
 ---
