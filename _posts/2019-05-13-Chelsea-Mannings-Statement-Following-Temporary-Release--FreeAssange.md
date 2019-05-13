@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  Chelsea Manning's Statement Following Temporary Release | #FreeAssange
+title:  "Chelsea Manning's Statement Following Temporary Release | #FreeAssange"
 author: unity4j
 categories: manning,unity4j,freeassange,wikileaks
 image: https://snap1.d.tube/ipfs/QmYb82QQ3rHFKJCVMC3s8RE88YwUD2hCNyFU1jfPrqSPQa
 featured: false
 hidden: false
+duration: 1327.392
+id: 74654884
+permlink: ox5vfadp
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmYb82QQ3rHFKJCVMC3s8RE88YwUD2hCNyFU1jfPrqSPQa" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmXW96H9B8riJpLPwsWeZ5VAK4iRhAQkkHwsxLDTKzjmsB"></video>

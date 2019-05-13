@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  ¡BITCOIN EXTRA ANALISIS! 😬 CRYPTONEWS 2019
+title:  "¡BITCOIN EXTRA ANALISIS! 😬 CRYPTONEWS 2019"
 author: funontheride
 categories: bitcoin,btc,crypto,funontheride
 image: https://snap1.d.tube/ipfs/QmVNqjWD3qQeYqYv5e7VVSLkbhDLQq4TrsZ7Q5ZbKjfqz1
 featured: false
 hidden: false
+duration: 1576.217
+id: 74666545
+permlink: aa98akeq
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmVNqjWD3qQeYqYv5e7VVSLkbhDLQq4TrsZ7Q5ZbKjfqz1" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmWg6ZzAidUsEtRQCE12eSWwKpMN8CEAtEvmJf4QTimdak"></video>

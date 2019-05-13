@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  What is Dtube? - A blocktrades sponsored contest"
+title:  "What is Dtube? - A blocktrades sponsored contest""
 author: afrinsultana
 categories: blocktrades,blocktradescontest,steemonboarding,life
 image: https://snap1.d.tube/ipfs/QmRmkb9kFhyHBPw4ysTy4pGjw18dqc2NxWNZSE5WfV335b
 featured: false
 hidden: false
+duration: 278.171
+id: 74661234
+permlink: crcxxtmk
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmRmkb9kFhyHBPw4ysTy4pGjw18dqc2NxWNZSE5WfV335b" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/Qma6v94HkpqD5S1dwN2RsJKdYiAWZA3rfGXX79bXFFrZ7G"></video>

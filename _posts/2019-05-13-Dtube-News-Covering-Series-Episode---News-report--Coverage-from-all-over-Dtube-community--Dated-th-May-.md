@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  Dtube News Covering Series Episode #17 | News report / Coverage from all over Dtube community  Dated 13th May 2019
+title:  "Dtube News Covering Series Episode #17 | News report / Coverage from all over Dtube community  Dated 13th May 2019"
 author: freecrypto
 categories: dtube-news,news,vlog,coverage
 image: https://snap1.d.tube/ipfs/QmZ3joANzjqaxtCUEqkkWguHePX3qqaJcoHuUSpdEdwHcG
 featured: false
 hidden: false
+duration: 452.472
+id: 74656863
+permlink: 2fba36t0
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmZ3joANzjqaxtCUEqkkWguHePX3qqaJcoHuUSpdEdwHcG" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmcgoHsbZKoh3qVgPZgaunAmnQLp4dwGmos6RGxn1io9Do"></video>

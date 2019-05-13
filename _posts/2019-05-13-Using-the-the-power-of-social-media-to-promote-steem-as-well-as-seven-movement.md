@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  Using the the power of social media to promote steem as well as seven77 movement.
+title:  "Using the the power of social media to promote steem as well as seven77 movement."
 author: certain
 categories: steem,seven77,steemit
 image: https://snap1.d.tube/ipfs/QmVz3hF95oA98YgC4U8TAuVTpnvxiNyj4EfjxGy6C8ijYy
 featured: false
 hidden: false
+duration: 260.711
+id: 74655418
+permlink: tdq8uii7
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmVz3hF95oA98YgC4U8TAuVTpnvxiNyj4EfjxGy6C8ijYy" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmQrE6fzrSCBmHie8v24vDaxbDkG4Ef8bnceo7yc1gB56s"></video>

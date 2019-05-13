@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  It's Monday 13th May! Happy New Week! Motivate your post with#STEEMLove (drop a link to an undervalued post for possibility of resteem upvote and tweet) 
+title:  "It's Monday 13th May! Happy New Week! Motivate your post with#STEEMLove (drop a link to an undervalued post for possibility of resteem upvote and tweet) "
 author: felt.buzz
 categories: powerhousecreatives,thealliance,theluvbug,steemlove
 image: https://snap1.d.tube/ipfs/QmVeJapCRs78HQXkuHk4XpZ8UH4z5WQ4dG8istSmRsyQ13
 featured: false
 hidden: false
+duration: 171.015
+id: 74658667
+permlink: qpw9jkfx
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmVeJapCRs78HQXkuHk4XpZ8UH4z5WQ4dG8istSmRsyQ13" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmeRWBCwpS1T9HYhBGFz8gTUWCWcuiYMvNAsvHS2DJruqC"></video>

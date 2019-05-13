@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  Steemhunt tutorial:- tips & tricks ..only for new comers our great platform steemhunt...
+title:  "Steemhunt tutorial:- tips & tricks ..only for new comers our great platform steemhunt..."
 author: mamun123456
 categories: steemhunt,tutorial,tips,newcomers
 image: https://snap1.d.tube/ipfs/Qmc4QLmtfCG4hSyeCdGqrFGwdckiwWW1PgccNwcNJNWmur
 featured: false
 hidden: false
+duration: 641.010068
+id: 74665232
+permlink: mj9swf5r
 ---
     
 <video poster="https://snap1.d.tube/ipfs/Qmc4QLmtfCG4hSyeCdGqrFGwdckiwWW1PgccNwcNJNWmur" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmU8a3xLppEHHeYhPU2eHGG8V1WUHeVHtuy36YBS1f1wpV"></video>

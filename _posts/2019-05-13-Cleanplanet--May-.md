@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  Cleanplanet 13 May 19
+title:  "Cleanplanet 13 May 19"
 author: cummins
 categories: cleanplanet,vlog,nature,bd
 image: https://snap1.d.tube/ipfs/Qmf5KPZw4LrVwQ49thBe6JrRGsr3e9vqvQbX9baazP7ocg
 featured: false
 hidden: false
+duration: 140.318186
+id: 74653913
+permlink: r58t2kw8
 ---
     
 <video poster="https://snap1.d.tube/ipfs/Qmf5KPZw4LrVwQ49thBe6JrRGsr3e9vqvQbX9baazP7ocg" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmR2NQrww5RwXRwwhTRPtUjkYkSwz9AkDFZvJVsb3XmDEQ"></video>

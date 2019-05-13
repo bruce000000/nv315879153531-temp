@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  Make a Good Liaison with your Followers
+title:  "Make a Good Liaison with your Followers"
 author: hafizullah
 categories: mindset,connectivity,engagement,steem
 image: https://snap1.d.tube/ipfs/Qmf5BTTqKFWrU6jSybnYdrvTHEWQzor9eajhXiiDNW796m
 featured: false
 hidden: false
+duration: 167.221533
+id: 74662759
+permlink: itfsts73
 ---
     
 <video poster="https://snap1.d.tube/ipfs/Qmf5BTTqKFWrU6jSybnYdrvTHEWQzor9eajhXiiDNW796m" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmcJvLPm3v52XDCpjWhEbxj261yGqjYc8HmGwRjC9KTEi7"></video>

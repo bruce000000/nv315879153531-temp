@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  Alone Together - Daley - Ed Privat
+title:  "Alone Together - Daley - Ed Privat"
 author: edprivat
 categories: music,onelovedtube,song,steemit
 image: https://snap1.d.tube/ipfs/QmZY1BPTwG16QPvfgADsXTsBWvTVGurP8XdqrypMsYFKRH
 featured: false
 hidden: false
+duration: 251.851
+id: 74648198
+permlink: dfmaric4
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmZY1BPTwG16QPvfgADsXTsBWvTVGurP8XdqrypMsYFKRH" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmWzWbeaKoPS9f5yQJh7p7NSdLdHVzB18N9izpHDUXRzHj"></video>

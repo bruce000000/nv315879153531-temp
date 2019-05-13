@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  Vlog #326 - I Buy My Lambo With the Bitcoin Pump!
+title:  "Vlog #326 - I Buy My Lambo With the Bitcoin Pump!"
 author: chesatochi
 categories: dtube,dtubedaily,powerhousecreatives,cryptocurrency
 image: https://snap1.d.tube/ipfs/QmVpiJe6jEKaXPXsfrvgwNnJrppAjQA1BTe26sZFm4BsKV
 featured: false
 hidden: false
+duration: undefined
+id: 74660257
+permlink: a6zpk5ya
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmVpiJe6jEKaXPXsfrvgwNnJrppAjQA1BTe26sZFm4BsKV" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmYTaShGrvPg35uYixexX7t3CYofH1xQeMr862k2cxVkya"></video>

@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  Library Dspace software : how to  install and practise.
+title:  "Library Dspace software : how to  install and practise."
 author: salmannaqvi
 categories: howto,install,dspace,education
 image: https://snap1.d.tube/ipfs/QmbKe8hCJnEQo4W1ww1yvwPU2doTL4FUjxuFi8Tcnr5CW2
 featured: false
 hidden: false
+duration: 709.601814
+id: 74660636
+permlink: mama7ak2
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmbKe8hCJnEQo4W1ww1yvwPU2doTL4FUjxuFi8Tcnr5CW2" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmWm4Lpa6c3jAT8WUmb9NBkdwEX9tvsrAeeCGP1k6gKUtq"></video>

@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  BASTION BOILER COLFORD Y BELLOWS OF FIRE / CALDERA DE BALUARTE Y FUELLE DE FUEGO
+title:  "BASTION BOILER COLFORD Y BELLOWS OF FIRE / CALDERA DE BALUARTE Y FUELLE DE FUEGO"
 author: yosuandoni
 categories: gaming,archdruid,steemgc,talentclub
 image: https://snap1.d.tube/ipfs/QmaenU3ifnhVWKhgVdABLRHWsu8pq6hariR17FW7Gcbs3q
 featured: false
 hidden: false
+duration: 1250.533878
+id: 74660776
+permlink: e7qdwk3n
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmaenU3ifnhVWKhgVdABLRHWsu8pq6hariR17FW7Gcbs3q" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmbPLGEAR5WLoNCV1V7LfbRppg1rqgqbj32vdZ6K6XiAyD"></video>

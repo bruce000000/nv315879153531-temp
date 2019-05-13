@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  LAST STATE OF THE PROJECT @dtube.forum 13/05/2019
+title:  "LAST STATE OF THE PROJECT @dtube.forum 13/05/2019"
 author: dtube.forum
 categories: dtube,dtubeforum,event,fundition-nki4yaz5z
 image: https://snap1.d.tube/ipfs/QmZUyLJr1UAUc3gVgAH5Ghuec3ZsdN9z835ppHMoPvEDuC
 featured: false
 hidden: false
+duration: 384.851118
+id: 74666314
+permlink: jy9rxzsb
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmZUyLJr1UAUc3gVgAH5Ghuec3ZsdN9z835ppHMoPvEDuC" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmP6B4y24gq6uncv16wBfqM69D8KVvVQRyZ7dDG6yXBXv8"></video>

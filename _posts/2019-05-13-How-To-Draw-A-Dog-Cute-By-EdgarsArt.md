@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  How To Draw A Dog Cute By EdgarsArt
+title:  "How To Draw A Dog Cute By EdgarsArt"
 author: edgarsart
 categories: dtube,onelovedtube,art,life
 image: https://snap1.d.tube/ipfs/QmcD8AgMZJ9NMGw9N1b5JWSACxaXoJay9aBiPPVMiuBG59
 featured: false
 hidden: false
+duration: 565.173688
+id: 74667232
+permlink: t7i8fovs
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmcD8AgMZJ9NMGw9N1b5JWSACxaXoJay9aBiPPVMiuBG59" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmYkrXhJ1wsN6gd4FQ953S9Kdtzuvic8juXEup31J7eLFQ"></video>

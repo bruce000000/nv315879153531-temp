@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  The Bamboo Train in Cambodia - DTube Travel Vlog
+title:  "The Bamboo Train in Cambodia - DTube Travel Vlog"
 author: thelifeofjord
 categories: dtube,life,travel,vlog
 image: https://snap1.d.tube/ipfs/QmddYjkTMB5uzwWLSbt668tLeEcvncoTgk6YBtu46rnBYk
 featured: false
 hidden: false
+duration: 459.732
+id: 74651022
+permlink: sq5sq6s6
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmddYjkTMB5uzwWLSbt668tLeEcvncoTgk6YBtu46rnBYk" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmdHCBx2T6DRvkErJHPpojqybSbAH9ijyvGaYi3Rkvio9Z"></video>

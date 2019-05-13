@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  Building momentum
+title:  "Building momentum"
 author: mickvir
 categories: dtube,life,momentum,seven77
 image: https://snap1.d.tube/ipfs/QmcfBfAH5HpBCRhvWyroZCghqK9KxZUVmAdv43bSHdYJXT
 featured: false
 hidden: false
+duration: 125.109115
+id: 74661965
+permlink: bnfrnwpu
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmcfBfAH5HpBCRhvWyroZCghqK9KxZUVmAdv43bSHdYJXT" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmQY33KP4sR1yYcCJ2oZrdsD6aLxbC5e8UZjFsPTCTY1cw"></video>

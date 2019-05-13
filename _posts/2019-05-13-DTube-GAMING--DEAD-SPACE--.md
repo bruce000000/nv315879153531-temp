@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  DTube GAMING | DEAD SPACE 2 #11
+title:  "DTube GAMING | DEAD SPACE 2 #11"
 author: voxmortis
 categories: dtubegaming,polish,archdruid,steemgc
 image: https://snap1.d.tube/ipfs/QmZsZcdykJPJtqhEJsZSbwQYZXAbD2pSKPCM5R5aRvnfvs
 featured: false
 hidden: false
+duration: 1264.745
+id: 74650855
+permlink: 1vqokizx
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmZsZcdykJPJtqhEJsZSbwQYZXAbD2pSKPCM5R5aRvnfvs" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmQVv5i3wwkyhcGvnDZN2PeUzMQU7GD3LcuhjhzxDriLwY"></video>

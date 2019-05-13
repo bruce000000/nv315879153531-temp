@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  Gravel Ride Around The Lake With My Surly Ogre!
+title:  "Gravel Ride Around The Lake With My Surly Ogre!"
 author: romafedorov
 categories: cycling,thailand,travel,vlog
 image: https://snap1.d.tube/ipfs/QmaED7CrXqNkZPQQpN5ov6x61rgn8hha2gQ5q3yC4fRNFi
 featured: false
 hidden: false
+duration: 697.363333
+id: 74668469
+permlink: k4prjqi2
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmaED7CrXqNkZPQQpN5ov6x61rgn8hha2gQ5q3yC4fRNFi" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmcuLsRawaiCkayFZhMq2qDdER8pdjyXbCvthaRJGr43An"></video>

@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  Dtube Play with pet cats and provide food
+title:  "Dtube Play with pet cats and provide food"
 author: armia
 categories: video,vlog,aceh,news
 image: https://snap1.d.tube/ipfs/QmddPWfTMup9BG88JfBpXgJiKJW8eZJqCs22BKqFcjbUB7
 featured: false
 hidden: false
+duration: 316.466667
+id: 74666669
+permlink: 74c7x5td
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmddPWfTMup9BG88JfBpXgJiKJW8eZJqCs22BKqFcjbUB7" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmccH9zPL93u7jtazuSsbpnxwnAJW1gyUdoKayUGK1Pmq3"></video>

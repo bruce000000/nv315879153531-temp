@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  Raphipitis diario #68 hip-hop - freestyle 🕶🎤
+title:  "Raphipitis diario #68 hip-hop - freestyle 🕶🎤"
 author: purapapita
 categories: spanish,cervantes,musica,castellano
 image: https://snap1.d.tube/ipfs/QmV9XQ2V43jUs7HeREU3i5gTFFK9WdaajX75RbzYaZBeqn
 featured: false
 hidden: false
+duration: 191.72
+id: 74649616
+permlink: w3e4u6p4
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmV9XQ2V43jUs7HeREU3i5gTFFK9WdaajX75RbzYaZBeqn" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/Qmc71Q2cyxaSNXg3NdUe3yF5tWREFTK2sLmeZeBcm9uwgU"></video>

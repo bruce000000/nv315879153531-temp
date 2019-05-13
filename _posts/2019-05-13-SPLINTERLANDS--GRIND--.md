@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  SPLINTERLANDS ⚙️ GRIND | #173
+title:  "SPLINTERLANDS ⚙️ GRIND | #173"
 author: bittrio
 categories: splinterlands,steemmonsters,dtubedaily,gaming
 image: https://snap1.d.tube/ipfs/QmVm7ebKMZkh8iQjagAcmR1m31Xsih7utKegQdyWnhwm6V
 featured: false
 hidden: false
+duration: 1580.134
+id: 74670434
+permlink: 1dacwaga
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmVm7ebKMZkh8iQjagAcmR1m31Xsih7utKegQdyWnhwm6V" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmPA5kaDEbRKpNa4VZQFe2YCht4dsG6kyTXBXjPQEiVYeY"></video>

@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  #392. My little research on Daaps
+title:  "#392. My little research on Daaps"
 author: jacksonchakma
 categories: daaps,tron,steem,profits
 image: https://snap1.d.tube/ipfs/QmUxV9mqn15JMP5MtqdDP3QfmZ2REahGe9pzQfhi495mYF
 featured: false
 hidden: false
+duration: 183.558375
+id: 74663689
+permlink: w6y4ng6q
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmUxV9mqn15JMP5MtqdDP3QfmZ2REahGe9pzQfhi495mYF" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmVknFBx5i8NBCw32i4233wKirNu3rkLipzgwAANNgwZmG"></video>
