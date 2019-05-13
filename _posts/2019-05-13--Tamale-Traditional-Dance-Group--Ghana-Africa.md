@@ -6,9 +6,6 @@ categories: [ ghana,africa,dance,music ]
 image: https://snap1.d.tube/ipfs/QmSoM2XLBQ4mrsdRbYjPAxPEbDLW2SosmMjVzuHwtoECar
 featured: false
 hidden: false
-duration: 356.693333
-id: 74658278
-permlink: nzptx0sj
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmSoM2XLBQ4mrsdRbYjPAxPEbDLW2SosmMjVzuHwtoECar" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmW6Ndefe8ZwPa3tEC5eeaWSTJvVCMkMMJyqjiUQmcujhQ"></video>

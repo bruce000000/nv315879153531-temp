@@ -6,9 +6,6 @@ categories: [ onelovedtube,synthesizer,dtubedaily ]
 image: https://snap1.d.tube/ipfs/QmTPKeguy1Rm45o2nnfn47QWB5fNJFUoHcUo4Wk42yQKbq
 featured: false
 hidden: false
-duration: 156.693333
-id: 74671769
-permlink: 7k8s1t72
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmTPKeguy1Rm45o2nnfn47QWB5fNJFUoHcUo4Wk42yQKbq" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmWfoQgzyWQ9QJyADbZvFAd6XuqwCwMV1JPzG1E6R1Swhy"></video>

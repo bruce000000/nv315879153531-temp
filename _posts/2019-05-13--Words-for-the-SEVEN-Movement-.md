@@ -6,9 +6,6 @@ categories: [ seven77,dtubedaily,onelovedtube,community ]
 image: https://snap1.d.tube/ipfs/QmedM7fAq8No4zFgucG38BmbWqJrpGkbyhdtQQacTWT6jB
 featured: false
 hidden: false
-duration: 321.967
-id: 74658055
-permlink: spbednu7
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmedM7fAq8No4zFgucG38BmbWqJrpGkbyhdtQQacTWT6jB" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmY9TT5JEWFyTFvsKp1KSaHvzPSKPVc2ns3iCNr5tfMKE2"></video>

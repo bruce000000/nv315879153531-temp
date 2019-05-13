@@ -6,9 +6,6 @@ categories: [ ddaily,hiking,family,vlog ]
 image: https://snap1.d.tube/ipfs/QmWFCajLw3iJifHkDhnCgxKysSje9n8nVU1DCQX4uiQqnp
 featured: false
 hidden: false
-duration: 268.866667
-id: 74667080
-permlink: 0vrolp7b
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmWFCajLw3iJifHkDhnCgxKysSje9n8nVU1DCQX4uiQqnp" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmSex7LDTCJJ9RSH48Nz4aRe2EJ2fjQuKjymUc14R1YsGz"></video>

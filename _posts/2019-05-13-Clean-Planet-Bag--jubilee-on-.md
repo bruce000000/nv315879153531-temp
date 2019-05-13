@@ -6,9 +6,6 @@ categories: [ cleanplanet,onewasteaday,life,nature ]
 image: https://snap1.d.tube/ipfs/QmQeD5y5j4KUueFN7pMciwC6r5pe5T9PKgwbgK3BFyszxC
 featured: false
 hidden: false
-duration: 109.888
-id: 74670689
-permlink: bc0bo7nq
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmQeD5y5j4KUueFN7pMciwC6r5pe5T9PKgwbgK3BFyszxC" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmVjCixqYizGaFm7wsGzaFC4qFPcxYS4ybh5W9sEEEUckf"></video>

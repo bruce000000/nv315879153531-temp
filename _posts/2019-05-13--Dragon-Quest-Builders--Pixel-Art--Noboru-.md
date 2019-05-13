@@ -6,9 +6,6 @@ categories: [ dtube,gaming,steemgc,dtubegaming,archdruid, ]
 image: https://snap1.d.tube/ipfs/QmV19cWbA2JMwqE8XTSYN56HFr2oHu2h4QUiuJFU68TwHa
 featured: false
 hidden: false
-duration: undefined
-id: 74658545
-permlink: xfpu2k6m
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmV19cWbA2JMwqE8XTSYN56HFr2oHu2h4QUiuJFU68TwHa" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmVtDHuNGSvvPqXVrkNqLovHSXXwzVjPUBKz7j12B8AyDg"></video>

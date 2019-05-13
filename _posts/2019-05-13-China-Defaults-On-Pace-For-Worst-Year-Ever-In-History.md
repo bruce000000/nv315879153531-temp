@@ -6,9 +6,6 @@ categories: [ china,yuan,debt,trump ]
 image: https://snap1.d.tube/ipfs/QmWkhV6rPgqyavsmviPE8B3pVZMj4RiJYT9BRfi65oFRfL
 featured: false
 hidden: false
-duration: 860.252
-id: 74649526
-permlink: 93n4dtvc
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmWkhV6rPgqyavsmviPE8B3pVZMj4RiJYT9BRfi65oFRfL" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmcBSHELVeMM3Ra467tAvBbtG9vc9hJ7VYpAWoAwqWx3rM"></video>

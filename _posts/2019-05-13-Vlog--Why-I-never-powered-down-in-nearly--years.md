@@ -6,9 +6,6 @@ categories: [ exyle ]
 image: https://snap1.d.tube/ipfs/QmSG6TyYiErgNmPQVfLzC231i46SaPq3Wb7s8GBVSSNeiE
 featured: false
 hidden: false
-duration: 1070.696
-id: 74659212
-permlink: 8uyjykh4
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmSG6TyYiErgNmPQVfLzC231i46SaPq3Wb7s8GBVSSNeiE" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmTo1SZbhpmPoyxepXMsHCzgmYvjHa34tDWR7d7NFsc7cV"></video>

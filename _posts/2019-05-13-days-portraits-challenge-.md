@@ -6,9 +6,6 @@ categories: [ cn,diytube,cn-reader ]
 image: https://snap1.d.tube/ipfs/QmSUetyx7HXBDPrLz12sXq7YnHqzoGaDZSsa718vGNBs9v
 featured: false
 hidden: false
-duration: 185.874
-id: 74670493
-permlink: vbiq50jk
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmSUetyx7HXBDPrLz12sXq7YnHqzoGaDZSsa718vGNBs9v" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmYHcXmEaEzBWm2hsWTqwScm1W8UGVtisB6LpfE7bpRcG6"></video>

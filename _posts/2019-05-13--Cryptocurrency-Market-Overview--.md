@@ -6,9 +6,6 @@ categories: [ cryptospa,steem,dapps,bitcoin ]
 image: https://snap1.d.tube/ipfs/QmVMNCkMcNUBSdmMt5edkhFyN86BxWJmj4K8RUxHu642jA
 featured: false
 hidden: false
-duration: 792.734
-id: 74662362
-permlink: w3v7npu5
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmVMNCkMcNUBSdmMt5edkhFyN86BxWJmj4K8RUxHu642jA" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmNN1MKYVFUub8ZnG4kznrxGFpdQiLbfhhRTAHTHyVEo2e"></video>

@@ -6,9 +6,6 @@ categories: [ flat,earth,lighthouse,lighthouses ]
 image: https://snap1.d.tube/ipfs/QmVMyh8ESsW9VoREkfQcKtQmc1vRpscxY4qKGXM6CWxiKX
 featured: false
 hidden: false
-duration: 928.473106
-id: 74666132
-permlink: zxh393jh
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmVMyh8ESsW9VoREkfQcKtQmc1vRpscxY4qKGXM6CWxiKX" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmZ5T5W12bsUr43BQaby65YoEzHEjTLZpuVADGFXsGuj51"></video>

@@ -6,9 +6,6 @@ categories: [ ddaily,artzone,ocd-resteem,diytube ]
 image: https://snap1.d.tube/ipfs/QmaeLY1XXzvfegijHgBgjFUKX8KVxVXzSnfyUJPoMVvUXU
 featured: false
 hidden: false
-duration: 165.59
-id: 74667487
-permlink: e4u6t34i
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmaeLY1XXzvfegijHgBgjFUKX8KVxVXzSnfyUJPoMVvUXU" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmcFzmVfQYjjLCB6gQf9dwJLRsK5utqmAcALCjw4zoFeM4"></video>

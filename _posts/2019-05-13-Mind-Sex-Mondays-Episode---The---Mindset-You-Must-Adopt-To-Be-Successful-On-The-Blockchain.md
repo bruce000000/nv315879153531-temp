@@ -6,9 +6,6 @@ categories: [ philosophy,spirituality,steem,teamaustralia ]
 image: https://snap1.d.tube/ipfs/QmSSYaTyZakkZTH6MHeLd54UAki75Uy7yJqDJcXjbDziTn
 featured: false
 hidden: false
-duration: 382.166666
-id: 74657767
-permlink: 1tw2kzhg
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmSSYaTyZakkZTH6MHeLd54UAki75Uy7yJqDJcXjbDziTn" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmW8HC9E6FkrvEivdELZARRa4Jj7bm8RXfHsZF1gLzXbnM"></video>

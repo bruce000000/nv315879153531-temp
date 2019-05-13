@@ -6,9 +6,6 @@ categories: [ gaming,video,letsplay,civ ]
 image: https://snap1.d.tube/ipfs/QmZbBRZns8Wb9zwEpBycb3cWMKkZFJMDfhZc89auC54sBV
 featured: false
 hidden: false
-duration: 929.775
-id: 74664520
-permlink: mdlsk1u2
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmZbBRZns8Wb9zwEpBycb3cWMKkZFJMDfhZc89auC54sBV" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmcrjydRPMq2hVocM7WdQJ3bSRA4oDPe9hV1S4d36C4DRr"></video>

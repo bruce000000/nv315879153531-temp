@@ -6,9 +6,6 @@ categories: [ celebration,mothers-day,happiness,onelovedtube ]
 image: https://snap1.d.tube/ipfs/QmXufafbS3ctMgzU5JXZKY2GdTmTxtFQTbQ39vpA6fumRK
 featured: false
 hidden: false
-duration: 538.913
-id: 74654560
-permlink: g1w8vuno
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmXufafbS3ctMgzU5JXZKY2GdTmTxtFQTbQ39vpA6fumRK" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmRN3jeyVoaxFpEEAVPY78UbT7nM1awjpWwno3NHNavGUg"></video>

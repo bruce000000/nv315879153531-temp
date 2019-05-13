@@ -6,9 +6,6 @@ categories: [ vlog,life,steemitmamas,teamaustralia ]
 image: https://snap1.d.tube/ipfs/QmZcuBApuYEYKCoQqY3JDrLXhDFmWwth4JQwFwqzEr8Bx2
 featured: false
 hidden: false
-duration: 286.566667
-id: 74655391
-permlink: vckx4hvc
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmZcuBApuYEYKCoQqY3JDrLXhDFmWwth4JQwFwqzEr8Bx2" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmYMQH5haxVNP3uF5NiXPVhSyX2DibmoAKTVXpjSm1YEWi"></video>

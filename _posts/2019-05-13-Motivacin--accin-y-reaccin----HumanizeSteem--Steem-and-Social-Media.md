@@ -6,9 +6,6 @@ categories: [ humanizesteem,seven77,steem,spanish ]
 image: https://snap1.d.tube/ipfs/QmVByoM2otH34AQVtHqZgnmSW4v6AjJyh2Horgt4uj4vzL
 featured: false
 hidden: false
-duration: 185.44
-id: 74670886
-permlink: 5lmxfsor
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmVByoM2otH34AQVtHqZgnmSW4v6AjJyh2Horgt4uj4vzL" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmPPmcFdz6yApCTPWjqujUezszxUpo5wFargdFaRe1xMkJ"></video>

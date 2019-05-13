@@ -6,9 +6,6 @@ categories: [ finance,selling,marketplace,vlog ]
 image: https://snap1.d.tube/ipfs/QmU56fDPwWBqZwjrBMP8pWFDwAAaZd7MZPQ2yqvqTiEg4d
 featured: false
 hidden: false
-duration: 479.296
-id: 74651403
-permlink: 085rhoir
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmU56fDPwWBqZwjrBMP8pWFDwAAaZd7MZPQ2yqvqTiEg4d" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmS8wxGJQtusrTMdGAyqHdn4A1jfDVnpztDwHHuPWFHZSi"></video>

@@ -6,9 +6,6 @@ categories: [ dapp,drugwars,criticism,review ]
 image: https://snap1.d.tube/ipfs/QmWi5SYAHkhEbVmWGWKFcRWBStfLVcfs7oN3h9PqbsMzbi
 featured: false
 hidden: false
-duration: 627.760467
-id: 74653774
-permlink: rx725jx5
 ---
     
 <video poster="https://snap1.d.tube/ipfs/QmWi5SYAHkhEbVmWGWKFcRWBStfLVcfs7oN3h9PqbsMzbi" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmYp6jcE8CLimwmJErRMv5rb3fT39RLj9VPQmoHuuXJhuP"></video>
