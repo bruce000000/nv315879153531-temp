@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
     
-<video poster="https://snap1.d.tube/ipfs/QmVMyh8ESsW9VoREkfQcKtQmc1vRpscxY4qKGXM6CWxiKX" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmZ5T5W12bsUr43BQaby65YoEzHEjTLZpuVADGFXsGuj51"></video>
+<video poster="https://snap1.d.tube/ipfs/QmVMyh8ESsW9VoREkfQcKtQmc1vRpscxY4qKGXM6CWxiKX" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmZ5T5W12bsUr43BQaby65YoEzHEjTLZpuVADGFXsGuj51" controls></video>
 
 A copy of the book “The Lighthouses of the World” and a calculator are enough to prove that the Earth is not a globe, but an extended flat plane. The distance from which various lighthouse lights around the world are visible at sea far exceeds what could be found on a globe Earth 25,000 miles in circumference.  
 

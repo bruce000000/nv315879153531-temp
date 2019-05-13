@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
     
-<video poster="https://snap1.d.tube/ipfs/QmVMNCkMcNUBSdmMt5edkhFyN86BxWJmj4K8RUxHu642jA" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmNN1MKYVFUub8ZnG4kznrxGFpdQiLbfhhRTAHTHyVEo2e"></video>
+<video poster="https://snap1.d.tube/ipfs/QmVMNCkMcNUBSdmMt5edkhFyN86BxWJmj4K8RUxHu642jA" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmNN1MKYVFUub8ZnG4kznrxGFpdQiLbfhhRTAHTHyVEo2e" controls></video>
 
 **Hello dear Steemians and Dtubers!**
 

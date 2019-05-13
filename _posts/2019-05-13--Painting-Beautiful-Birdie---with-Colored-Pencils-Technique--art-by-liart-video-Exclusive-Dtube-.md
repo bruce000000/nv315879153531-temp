@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
     
-<video poster="https://snap1.d.tube/ipfs/QmaeLY1XXzvfegijHgBgjFUKX8KVxVXzSnfyUJPoMVvUXU" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmcFzmVfQYjjLCB6gQf9dwJLRsK5utqmAcALCjw4zoFeM4"></video>
+<video poster="https://snap1.d.tube/ipfs/QmaeLY1XXzvfegijHgBgjFUKX8KVxVXzSnfyUJPoMVvUXU" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmcFzmVfQYjjLCB6gQf9dwJLRsK5utqmAcALCjw4zoFeM4" controls></video>
 
 
 

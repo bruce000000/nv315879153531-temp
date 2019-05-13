@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
     
-<video poster="https://snap1.d.tube/ipfs/QmRmkb9kFhyHBPw4ysTy4pGjw18dqc2NxWNZSE5WfV335b" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/Qma6v94HkpqD5S1dwN2RsJKdYiAWZA3rfGXX79bXFFrZ7G"></video>
+<video poster="https://snap1.d.tube/ipfs/QmRmkb9kFhyHBPw4ysTy4pGjw18dqc2NxWNZSE5WfV335b" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/Qma6v94HkpqD5S1dwN2RsJKdYiAWZA3rfGXX79bXFFrZ7G" controls></video>
 
 dtube is the most popular and most used Dapp built on the Steem blockchain.We seen Many steemian use it to post their video content.This dapp suport people for good vedio content.Also people share there vedio content here so easily.Also from others vlog people can learn many things. And can increase their knowledge. Its have own webseit thats name d.tube Also its steemit username also @dtube. Also for information you can check my link that given already.I already putted there every important link i hope that will help you guys.
 Any steemian and new user can get success here for their good vedio content.So i will say try it and get support from dtube. 

@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
     
-<video poster="https://snap1.d.tube/ipfs/QmQ7Qx5Qu7i2jvhzQ14T5bLPiXAE8f4bXqbRkFGCkAvg8g" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmZbycJ2tWQXKt96afjd74xG9tvs529GbKhbwxi93brgH6"></video>
+<video poster="https://snap1.d.tube/ipfs/QmQ7Qx5Qu7i2jvhzQ14T5bLPiXAE8f4bXqbRkFGCkAvg8g" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmZbycJ2tWQXKt96afjd74xG9tvs529GbKhbwxi93brgH6" controls></video>
 
 What's up Dtubers, 
 

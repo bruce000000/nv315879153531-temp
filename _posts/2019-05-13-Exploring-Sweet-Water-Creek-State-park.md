@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
     
-<video poster="https://snap1.d.tube/ipfs/Qmf3NWNWd9TAbu8aHh1pfavRaozBPJ9CJXP2V18UTfmsiP" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmQC4FkT2dXPsfMHPLWgKfFJNq6mTNpKW9GsufbD3nBC6P"></video>
+<video poster="https://snap1.d.tube/ipfs/Qmf3NWNWd9TAbu8aHh1pfavRaozBPJ9CJXP2V18UTfmsiP" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmQC4FkT2dXPsfMHPLWgKfFJNq6mTNpKW9GsufbD3nBC6P" controls></video>
 
 I spent a day at the state park exploring the river, trails and the Manchester Mill Ruins. I was joined by a geologist of the State Park and we walked around for a few hours seeing the park and talking about its stone formations and how they probably happened a very long time ago.
 

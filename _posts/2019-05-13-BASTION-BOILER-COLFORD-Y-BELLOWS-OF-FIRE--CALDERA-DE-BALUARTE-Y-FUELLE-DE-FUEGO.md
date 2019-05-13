@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
     
-<video poster="https://snap1.d.tube/ipfs/QmaenU3ifnhVWKhgVdABLRHWsu8pq6hariR17FW7Gcbs3q" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmbPLGEAR5WLoNCV1V7LfbRppg1rqgqbj32vdZ6K6XiAyD"></video>
+<video poster="https://snap1.d.tube/ipfs/QmaenU3ifnhVWKhgVdABLRHWsu8pq6hariR17FW7Gcbs3q" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmbPLGEAR5WLoNCV1V7LfbRppg1rqgqbj32vdZ6K6XiAyD" controls></video>
 
 👋😎 Hello Friends, today I will go to a new world, where I discover hidden mysteries related to dangerous lands, besides I get a new weapon that is created with carbon and fire, this weapon allows to throw fire to enemies and does not need ammunition, only to wait for it to recharge its capacity of fire.
 

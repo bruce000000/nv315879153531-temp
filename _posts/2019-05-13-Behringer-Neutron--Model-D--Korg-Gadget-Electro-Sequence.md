@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
     
-<video poster="https://snap1.d.tube/ipfs/QmTPKeguy1Rm45o2nnfn47QWB5fNJFUoHcUo4Wk42yQKbq" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmWfoQgzyWQ9QJyADbZvFAd6XuqwCwMV1JPzG1E6R1Swhy"></video>
+<video poster="https://snap1.d.tube/ipfs/QmTPKeguy1Rm45o2nnfn47QWB5fNJFUoHcUo4Wk42yQKbq" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmWfoQgzyWQ9QJyADbZvFAd6XuqwCwMV1JPzG1E6R1Swhy" controls></video>
 
 Electro 4/4 style sequence with Behringer Model D, Behringer Neutron and Korg Gadget. This clip has Korg Gadget 2 controlling all hardware synthesizers via Taipei Gadget. 
 

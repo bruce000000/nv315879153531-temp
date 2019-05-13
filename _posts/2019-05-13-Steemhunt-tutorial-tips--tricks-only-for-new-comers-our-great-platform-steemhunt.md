@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
     
-<video poster="https://snap1.d.tube/ipfs/Qmc4QLmtfCG4hSyeCdGqrFGwdckiwWW1PgccNwcNJNWmur" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmU8a3xLppEHHeYhPU2eHGG8V1WUHeVHtuy36YBS1f1wpV"></video>
+<video poster="https://snap1.d.tube/ipfs/Qmc4QLmtfCG4hSyeCdGqrFGwdckiwWW1PgccNwcNJNWmur" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmU8a3xLppEHHeYhPU2eHGG8V1WUHeVHtuy36YBS1f1wpV" controls></video>
 
 How are you all hoping that you are very good, again you have come up with a lot of important and a video to learn, and the words that I said in this video will certainly help in some of the new @steemhunt platforms.
 

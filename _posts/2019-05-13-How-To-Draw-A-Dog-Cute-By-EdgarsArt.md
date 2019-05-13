@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
     
-<video poster="https://snap1.d.tube/ipfs/QmcD8AgMZJ9NMGw9N1b5JWSACxaXoJay9aBiPPVMiuBG59" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmYkrXhJ1wsN6gd4FQ953S9Kdtzuvic8juXEup31J7eLFQ"></video>
+<video poster="https://snap1.d.tube/ipfs/QmcD8AgMZJ9NMGw9N1b5JWSACxaXoJay9aBiPPVMiuBG59" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmYkrXhJ1wsN6gd4FQ953S9Kdtzuvic8juXEup31J7eLFQ" controls></video>
 
 
 I have not been following Steemit a lot lately, buy i do try to stay as active as I can.

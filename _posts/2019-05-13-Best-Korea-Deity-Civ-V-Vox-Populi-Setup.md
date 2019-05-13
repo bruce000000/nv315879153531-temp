@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
     
-<video poster="https://snap1.d.tube/ipfs/QmZbBRZns8Wb9zwEpBycb3cWMKkZFJMDfhZc89auC54sBV" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmcrjydRPMq2hVocM7WdQJ3bSRA4oDPe9hV1S4d36C4DRr"></video>
+<video poster="https://snap1.d.tube/ipfs/QmZbBRZns8Wb9zwEpBycb3cWMKkZFJMDfhZc89auC54sBV" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmcrjydRPMq2hVocM7WdQJ3bSRA4oDPe9hV1S4d36C4DRr" controls></video>
 
 Once again we are at war with the 2 other most power civs, we will be focusing on Arabia with there tech lead.
 

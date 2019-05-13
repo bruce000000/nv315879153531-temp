@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
     
-<video poster="https://snap1.d.tube/ipfs/QmZUyLJr1UAUc3gVgAH5Ghuec3ZsdN9z835ppHMoPvEDuC" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmP6B4y24gq6uncv16wBfqM69D8KVvVQRyZ7dDG6yXBXv8"></video>
+<video poster="https://snap1.d.tube/ipfs/QmZUyLJr1UAUc3gVgAH5Ghuec3ZsdN9z835ppHMoPvEDuC" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmP6B4y24gq6uncv16wBfqM69D8KVvVQRyZ7dDG6yXBXv8" controls></video>
 
 Hi, D.tube community!
 Today, May 13th, I want to bring you the final and last update about the account @dtube.forum and the @fundition campaign. In 4 days we will start the event!

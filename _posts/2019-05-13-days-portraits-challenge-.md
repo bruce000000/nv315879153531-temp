@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
     
-<video poster="https://snap1.d.tube/ipfs/QmSUetyx7HXBDPrLz12sXq7YnHqzoGaDZSsa718vGNBs9v" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmYHcXmEaEzBWm2hsWTqwScm1W8UGVtisB6LpfE7bpRcG6"></video>
+<video poster="https://snap1.d.tube/ipfs/QmSUetyx7HXBDPrLz12sXq7YnHqzoGaDZSsa718vGNBs9v" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmYHcXmEaEzBWm2hsWTqwScm1W8UGVtisB6LpfE7bpRcG6" controls></video>
 
 提到大伟@rivalhw 很多人都知道。cn区的代表性人物。
 大伟不是因为他有多少sp。也不是他多大的架子。大伟是一个好人。

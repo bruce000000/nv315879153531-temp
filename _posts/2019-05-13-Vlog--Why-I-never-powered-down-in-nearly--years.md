@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
     
-<video poster="https://snap1.d.tube/ipfs/QmSG6TyYiErgNmPQVfLzC231i46SaPq3Wb7s8GBVSSNeiE" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmTo1SZbhpmPoyxepXMsHCzgmYvjHa34tDWR7d7NFsc7cV"></video>
+<video poster="https://snap1.d.tube/ipfs/QmSG6TyYiErgNmPQVfLzC231i46SaPq3Wb7s8GBVSSNeiE" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmTo1SZbhpmPoyxepXMsHCzgmYvjHa34tDWR7d7NFsc7cV" controls></video>
 
 Yesterday I had a nice conversation with @themonetaryfew and he warned me about my emotional investing in Steem.
 

@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
     
-<video poster="https://snap1.d.tube/ipfs/QmWFCajLw3iJifHkDhnCgxKysSje9n8nVU1DCQX4uiQqnp" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmSex7LDTCJJ9RSH48Nz4aRe2EJ2fjQuKjymUc14R1YsGz"></video>
+<video poster="https://snap1.d.tube/ipfs/QmWFCajLw3iJifHkDhnCgxKysSje9n8nVU1DCQX4uiQqnp" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmSex7LDTCJJ9RSH48Nz4aRe2EJ2fjQuKjymUc14R1YsGz" controls></video>
 
 We had a rare family day out, thanks to my lovely wife's making us all get out the house. We're so blessed to live where we do and we rarely take advantage of it as a family, which is a real shame. We'll definitely get back up there again later in the year for some swimming. 
 
