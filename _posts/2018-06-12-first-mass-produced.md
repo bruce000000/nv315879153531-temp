@@ -1,16 +1,41 @@
 ---
 layout: post
-title:  "The first mass-produced book to deviate from a rectilinear format"
+title:  "Family Hike to the Blue Pools"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ ddaily, hiking, family, vlog ]
 image: assets/images/17.jpg
+featured: false
+hidden: true
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
+<video poster="https://snap1.d.tube/ipfs/QmWFCajLw3iJifHkDhnCgxKysSje9n8nVU1DCQX4uiQqnp" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmUbKWweJT2VCrYdGXHs4q8z5WEtjitJcY3KqPZZbY6ZJq"></video>
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+We had a rare family day out, thanks to my lovely wife's making us all get out the house. We're so blessed to live where we do and we rarely take advantage of it as a family, which is a real shame. We'll definitely get back up there again later in the year for some swimming. 
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+▶FOLLOW ME◀
+Instagram: https://www.instagram.com/acousticguitario/
+Facebook: https://www.facebook.com/acousticguitario/
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+★SUPPORT ME★
+
+Below are Amazon affiliate links that you can use to support my channel and my content. Click them to visit Amazon in your locale and then anything you buy in that browsing session will support me as a solo content creator. 
+
+Thank you. 
+
+▶Gear Used in this Video◀
+
+Camera - https://geni.us/9mEAt
+Lens - https://geni.us/pbNjeu
+RØDE Mic: https://geni.us/mqEtu0
+SmallRig Cage: https://geni.us/grqfnj
+Coldshoe: https://geni.us/RQpCzOQ
+Mini Tripod: https://geni.us/v0Xy
+
+
+Hi, I'm Cams, a music teacher on the Isle of Arran in Scotland. I've been playing guitar since 1991 and gigging for over 15 years. I teach privately at my home on Arran and enjoy making video lessons and podcasts about the guitar world. I am what could safely be called a guitar geek! 
+
+If you want to know more about me and my instruments, check out http://acousticguitar.io and http://camsmusic.net
+
+Thank you for watching!
+Cams
+
