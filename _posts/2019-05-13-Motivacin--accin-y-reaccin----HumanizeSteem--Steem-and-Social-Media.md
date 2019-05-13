@@ -59,6 +59,7 @@ https://discord.gg/bS7F42z Discord voto vnzla
 <center>
 https://steemit.com/dtube/@jeanlucsr/gkatgx34
 **This is the original post of the initiative!**
+@jeanlucsr @nathanmars
 </center>
 
 <center>
