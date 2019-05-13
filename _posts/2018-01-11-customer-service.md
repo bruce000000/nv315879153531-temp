@@ -5,7 +5,7 @@ author: camuel
 categories: [ ddaily, hiking, family, vlog ]
 image: https://snap1.d.tube/ipfs/QmWFCajLw3iJifHkDhnCgxKysSje9n8nVU1DCQX4uiQqnp
 # description: "My review of Inception movie. Acting, plot and something else in this short description."
-featured: true
+featured: false
 hidden: true
 rating: 4.5
 ---
