@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74666545
@@ -6,7 +5,7 @@ permlink: aa98akeq
 title:  ¡BITCOIN EXTRA ANALISIS! 😬 CRYPTONEWS 2019
 author: funontheride
 categories: bitcoin,btc,crypto,funontheride
-image: QmVNqjWD3qQeYqYv5e7VVSLkbhDLQq4TrsZ7Q5ZbKjfqz1
+image: https://snap1.d.tube/ipfs/QmVNqjWD3qQeYqYv5e7VVSLkbhDLQq4TrsZ7Q5ZbKjfqz1
 duration: 1576.217
 featured: false
 hidden: false

@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74666802
@@ -6,7 +5,7 @@ permlink: ka36f7bx
 title:  Trying beat my shadow :) 
 author: sirpeter77
 categories: #sports #kickboxing #passion #polish #sirpeter77
-image: QmbodKq1BN1gUeYvbnnrNeLJG5xwscm4u8gPyvtG3A6NPp
+image: https://snap1.d.tube/ipfs/QmbodKq1BN1gUeYvbnnrNeLJG5xwscm4u8gPyvtG3A6NPp
 duration: 11.324
 featured: false
 hidden: false

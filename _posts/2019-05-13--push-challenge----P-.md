@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74665648
@@ -6,7 +5,7 @@ permlink: rrodupbj
 title:  [77 push challenge #26]  & [小P孩日记 #89]
 author: julian2013
 categories: seven77,steem,ddaily,p-boy
-image: QmeoQhNVWbfKTsn92p6V9f2xR4EBZSUZgb1vh84sztxotJ
+image: https://snap1.d.tube/ipfs/QmeoQhNVWbfKTsn92p6V9f2xR4EBZSUZgb1vh84sztxotJ
 duration: 63.739644
 featured: false
 hidden: false

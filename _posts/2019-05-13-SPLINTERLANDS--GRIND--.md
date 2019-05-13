@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74670434
@@ -6,7 +5,7 @@ permlink: 1dacwaga
 title:  SPLINTERLANDS ⚙️ GRIND | #173
 author: bittrio
 categories: splinterlands,steemmonsters,dtubedaily,gaming
-image: QmVm7ebKMZkh8iQjagAcmR1m31Xsih7utKegQdyWnhwm6V
+image: https://snap1.d.tube/ipfs/QmVm7ebKMZkh8iQjagAcmR1m31Xsih7utKegQdyWnhwm6V
 duration: 1580.134
 featured: false
 hidden: false

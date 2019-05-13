@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74659014
@@ -6,7 +5,7 @@ permlink: pc6wfs1c
 title:  [Ranked] Queen Nai vs Orion
 author: atnazo
 categories: dtubegaming,gaming,games,ocd-resteem
-image: QmRFK2jvGJHnLsxZWHa6ab6FcfBgPCfXRLvx1ZKJspQVVp
+image: https://snap1.d.tube/ipfs/QmRFK2jvGJHnLsxZWHa6ab6FcfBgPCfXRLvx1ZKJspQVVp
 duration: 558.733
 featured: false
 hidden: false

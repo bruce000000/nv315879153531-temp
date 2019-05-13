@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74660636
@@ -6,7 +5,7 @@ permlink: mama7ak2
 title:  Library Dspace software : how to  install and practise.
 author: salmannaqvi
 categories: howto,install,dspace,education
-image: QmbKe8hCJnEQo4W1ww1yvwPU2doTL4FUjxuFi8Tcnr5CW2
+image: https://snap1.d.tube/ipfs/QmbKe8hCJnEQo4W1ww1yvwPU2doTL4FUjxuFi8Tcnr5CW2
 duration: 709.601814
 featured: false
 hidden: false

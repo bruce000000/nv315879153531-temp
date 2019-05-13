@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74664520
@@ -6,7 +5,7 @@ permlink: mdlsk1u2
 title:  (Best Korea) Deity Civ V Vox Populi Setup
 author: fiveboringgames
 categories: gaming,video,letsplay,civ
-image: QmZbBRZns8Wb9zwEpBycb3cWMKkZFJMDfhZc89auC54sBV
+image: https://snap1.d.tube/ipfs/QmZbBRZns8Wb9zwEpBycb3cWMKkZFJMDfhZc89auC54sBV
 duration: 929.775
 featured: false
 hidden: false

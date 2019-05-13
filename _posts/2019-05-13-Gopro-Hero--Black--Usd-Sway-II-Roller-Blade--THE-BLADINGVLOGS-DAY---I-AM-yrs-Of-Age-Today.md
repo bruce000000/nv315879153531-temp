@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74669201
@@ -6,7 +5,7 @@ permlink: 5f93yc8p
 title:  Gopro Hero 7 Black & Usd Sway II Roller Blade | THE BLADINGVLOGS DAY 20 | I AM 40yrs Of Age Today
 author: dronemania
 categories: dtube,onelovedtube,rollerblading,gopro
-image: QmZfJ2AgdKC7Q47cedH5JEMSTNHWGJZSVPTDg3y66CnJci
+image: https://snap1.d.tube/ipfs/QmZfJ2AgdKC7Q47cedH5JEMSTNHWGJZSVPTDg3y66CnJci
 duration: 253.44
 featured: false
 hidden: false

@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74657576
@@ -6,7 +5,7 @@ permlink: mhb8um5k
 title:  ROOFTECH intro!!!
 author: fangir
 categories: dtube,rooftech,vlog,work
-image: QmbLenoBKgwqjpjm6AxZ8v5qcnysDnfSLXyBfRzM1hVNNX
+image: https://snap1.d.tube/ipfs/QmbLenoBKgwqjpjm6AxZ8v5qcnysDnfSLXyBfRzM1hVNNX
 duration: 474.048
 featured: false
 hidden: false

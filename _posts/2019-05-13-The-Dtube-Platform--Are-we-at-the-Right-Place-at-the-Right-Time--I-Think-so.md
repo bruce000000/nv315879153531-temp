@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74669753
@@ -6,7 +5,7 @@ permlink: a3e6dbsg
 title:  The Dtube Platform - Are we at the Right Place at the Right Time ( I Think so)
 author: robertandrew
 categories: ddaily,dtuberockers,onelovedtube,dcooperation
-image: QmVc2GMadgPDex12cerUA9ZYsJ6gf4juSVeGiYkbxbLX7K
+image: https://snap1.d.tube/ipfs/QmVc2GMadgPDex12cerUA9ZYsJ6gf4juSVeGiYkbxbLX7K
 duration: 123.711979
 featured: false
 hidden: false

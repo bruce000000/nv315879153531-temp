@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74655418
@@ -6,7 +5,7 @@ permlink: tdq8uii7
 title:  Using the the power of social media to promote steem as well as seven77 movement.
 author: certain
 categories: steem,seven77,steemit
-image: QmVz3hF95oA98YgC4U8TAuVTpnvxiNyj4EfjxGy6C8ijYy
+image: https://snap1.d.tube/ipfs/QmVz3hF95oA98YgC4U8TAuVTpnvxiNyj4EfjxGy6C8ijYy
 duration: 260.711
 featured: false
 hidden: false

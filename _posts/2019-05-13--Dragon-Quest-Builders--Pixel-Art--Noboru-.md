@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74658545
@@ -6,7 +5,7 @@ permlink: xfpu2k6m
 title:  🎮 Dragon Quest Builders | Pixel Art - Noboru 🎮
 author: xr-hammergaming
 categories: dtube,gaming,steemgc,dtubegaming,archdruid,
-image: QmV19cWbA2JMwqE8XTSYN56HFr2oHu2h4QUiuJFU68TwHa
+image: https://snap1.d.tube/ipfs/QmV19cWbA2JMwqE8XTSYN56HFr2oHu2h4QUiuJFU68TwHa
 duration: undefined
 featured: false
 hidden: false

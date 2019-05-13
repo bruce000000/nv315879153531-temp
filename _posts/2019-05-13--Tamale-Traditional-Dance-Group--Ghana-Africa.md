@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74658278
@@ -6,7 +5,7 @@ permlink: nzptx0sj
 title:   Tamale Traditional Dance Group - Ghana, Africa
 author: for91days
 categories: ghana,africa,dance,music
-image: QmSoM2XLBQ4mrsdRbYjPAxPEbDLW2SosmMjVzuHwtoECar
+image: https://snap1.d.tube/ipfs/QmSoM2XLBQ4mrsdRbYjPAxPEbDLW2SosmMjVzuHwtoECar
 duration: 356.693333
 featured: false
 hidden: false

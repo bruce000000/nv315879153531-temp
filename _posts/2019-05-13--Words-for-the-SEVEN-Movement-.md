@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74658055
@@ -6,7 +5,7 @@ permlink: spbednu7
 title:  7 Words for the SEVEN77 Movement! 
 author: clove71
 categories: seven77,dtubedaily,onelovedtube,community
-image: QmedM7fAq8No4zFgucG38BmbWqJrpGkbyhdtQQacTWT6jB
+image: https://snap1.d.tube/ipfs/QmedM7fAq8No4zFgucG38BmbWqJrpGkbyhdtQQacTWT6jB
 duration: 321.967
 featured: false
 hidden: false

@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74667080
@@ -6,7 +5,7 @@ permlink: 0vrolp7b
 title:  Family Hike to the Blue Pools
 author: camuel
 categories: ddaily,hiking,family,vlog
-image: QmWFCajLw3iJifHkDhnCgxKysSje9n8nVU1DCQX4uiQqnp
+image: https://snap1.d.tube/ipfs/QmWFCajLw3iJifHkDhnCgxKysSje9n8nVU1DCQX4uiQqnp
 duration: 268.866667
 featured: false
 hidden: false

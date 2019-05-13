@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74662933
@@ -6,7 +5,7 @@ permlink: 8qczurmt
 title:  Fnux - Guayaba (original)
 author: fnux
 categories: spanish,cervantes,musica,art
-image: QmZJ6ixJNtsDr6PR1cPeXcwnH7zNNMzaexCj8uGNkxbgc7
+image: https://snap1.d.tube/ipfs/QmZJ6ixJNtsDr6PR1cPeXcwnH7zNNMzaexCj8uGNkxbgc7
 duration: 234.0338
 featured: false
 hidden: false

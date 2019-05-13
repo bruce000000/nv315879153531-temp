@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74670493
@@ -6,7 +5,7 @@ permlink: vbiq50jk
 title:  77days portraits challenge #3【西瓜画坊】#77
 author: aellly
 categories: cn,diytube,cn-reader
-image: QmSUetyx7HXBDPrLz12sXq7YnHqzoGaDZSsa718vGNBs9v
+image: https://snap1.d.tube/ipfs/QmSUetyx7HXBDPrLz12sXq7YnHqzoGaDZSsa718vGNBs9v
 duration: 185.874
 featured: false
 hidden: false

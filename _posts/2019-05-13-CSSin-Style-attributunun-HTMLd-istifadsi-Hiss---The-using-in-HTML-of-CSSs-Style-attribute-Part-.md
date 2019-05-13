@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74665695
@@ -6,7 +5,7 @@ permlink: fc557jar
 title:  CSS'in Style attributunun HTML'də istifadəsi (Hissə 1) // The using in HTML of CSS's Style attribute (Part 1)
 author: cameron99
 categories: dtube,tutorial,programming,html
-image: QmbD6GGBWP3qdr6ELQJ9G2ABzykFPvonvf55oBtQTasWYd
+image: https://snap1.d.tube/ipfs/QmbD6GGBWP3qdr6ELQJ9G2ABzykFPvonvf55oBtQTasWYd
 duration: 723.8
 featured: false
 hidden: false

@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74661965
@@ -6,7 +5,7 @@ permlink: bnfrnwpu
 title:  Building momentum
 author: mickvir
 categories: dtube,life,momentum,seven77
-image: QmcfBfAH5HpBCRhvWyroZCghqK9KxZUVmAdv43bSHdYJXT
+image: https://snap1.d.tube/ipfs/QmcfBfAH5HpBCRhvWyroZCghqK9KxZUVmAdv43bSHdYJXT
 duration: 125.109115
 featured: false
 hidden: false

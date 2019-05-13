@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74652490
@@ -6,7 +5,7 @@ permlink: 0te8r3c4
 title:  クレープ料理で哲学 Having Crepes And Be a Philosopher
 author: iyuta
 categories: food,travel,japanese,poland
-image: QmUGnBneG5qoiXhLRh8RrTxQkZroyFvDBbrZ5VApavaMh1
+image: https://snap1.d.tube/ipfs/QmUGnBneG5qoiXhLRh8RrTxQkZroyFvDBbrZ5VApavaMh1
 duration: 632
 featured: false
 hidden: false

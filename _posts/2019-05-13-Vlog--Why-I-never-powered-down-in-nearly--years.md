@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74659212
@@ -6,7 +5,7 @@ permlink: 8uyjykh4
 title:  Vlog 406: Why I never powered down in nearly 3 years.
 author: exyle
 categories: exyle
-image: QmSG6TyYiErgNmPQVfLzC231i46SaPq3Wb7s8GBVSSNeiE
+image: https://snap1.d.tube/ipfs/QmSG6TyYiErgNmPQVfLzC231i46SaPq3Wb7s8GBVSSNeiE
 duration: 1070.696
 featured: false
 hidden: false

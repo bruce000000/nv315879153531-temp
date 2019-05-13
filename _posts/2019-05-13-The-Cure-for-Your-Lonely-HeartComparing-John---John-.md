@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74670115
@@ -6,7 +5,7 @@ permlink: fprgzahf
 title:  The Cure for Your Lonely Heart-Comparing John 3 & John 4.
 author: thoughtfultalks
 categories: loneliness,heart,god,love
-image: QmeBa1iAbKkBAcRXSkEZdV75rnRmrQYwTWKHTyQAaojpUd
+image: https://snap1.d.tube/ipfs/QmeBa1iAbKkBAcRXSkEZdV75rnRmrQYwTWKHTyQAaojpUd
 duration: 3822.167
 featured: false
 hidden: false

@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74666232
@@ -6,7 +5,7 @@ permlink: fj708y7c
 title:  Exploring Sweet Water Creek State park
 author: solominer
 categories: nature,hiking,thundercurator,georgia
-image: Qmf3NWNWd9TAbu8aHh1pfavRaozBPJ9CJXP2V18UTfmsiP
+image: https://snap1.d.tube/ipfs/Qmf3NWNWd9TAbu8aHh1pfavRaozBPJ9CJXP2V18UTfmsiP
 duration: 605.16425
 featured: false
 hidden: false

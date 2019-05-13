@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74657767
@@ -6,7 +5,7 @@ permlink: 1tw2kzhg
 title:  Mind Sex Mondays: Episode 14 - The # 1 Mindset You Must Adopt, To Be Successful On The Blockchain
 author: bobaphet
 categories: philosophy,spirituality,steem,teamaustralia
-image: QmSSYaTyZakkZTH6MHeLd54UAki75Uy7yJqDJcXjbDziTn
+image: https://snap1.d.tube/ipfs/QmSSYaTyZakkZTH6MHeLd54UAki75Uy7yJqDJcXjbDziTn
 duration: 382.166666
 featured: false
 hidden: false

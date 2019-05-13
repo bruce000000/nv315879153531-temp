@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74661234
@@ -6,7 +5,7 @@ permlink: crcxxtmk
 title:  What is Dtube? - A blocktrades sponsored contest"
 author: afrinsultana
 categories: blocktrades,blocktradescontest,steemonboarding,life
-image: QmRmkb9kFhyHBPw4ysTy4pGjw18dqc2NxWNZSE5WfV335b
+image: https://snap1.d.tube/ipfs/QmRmkb9kFhyHBPw4ysTy4pGjw18dqc2NxWNZSE5WfV335b
 duration: 278.171
 featured: false
 hidden: false

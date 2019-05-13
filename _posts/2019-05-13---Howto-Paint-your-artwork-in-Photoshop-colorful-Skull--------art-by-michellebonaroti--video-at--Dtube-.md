@@ -1,4 +1,3 @@
-
 ---
 layout: post
 id: 74670587
@@ -6,7 +5,7 @@ permlink: wq92wuz4
 title:  21 🎬 Howto Paint your artwork in Photoshop ,colorful Skull   -   ! 🎬 art by @michellebonaroti , video at  Dtube 🎬
 author: michellebonaroti
 categories: ddaily,artzone,ocd-resteem,diytube
-image: QmXqQpT5wEW3zFvesHDyNFJ7ZXwaYYQgkLunJ5YGDMVz9i
+image: https://snap1.d.tube/ipfs/QmXqQpT5wEW3zFvesHDyNFJ7ZXwaYYQgkLunJ5YGDMVz9i
 duration: 181.930666
 featured: false
 hidden: false
