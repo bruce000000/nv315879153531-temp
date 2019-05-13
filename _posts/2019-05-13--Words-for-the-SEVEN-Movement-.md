@@ -3,7 +3,7 @@ layout: post
 title: ' Words for the SEVEN Movement '
 author: 'clove71'
 categories: [ seven77,dtubedaily,onelovedtube,community ]
-image: https://snap1.d.tube/ipfs/QmedM7fAq8No4zFgucG38BmbWqJrpGkbyhdtQQacTWT6jB
+image: 'https://snap1.d.tube/ipfs/QmedM7fAq8No4zFgucG38BmbWqJrpGkbyhdtQQacTWT6jB'
 featured: false
 hidden: false
 ---

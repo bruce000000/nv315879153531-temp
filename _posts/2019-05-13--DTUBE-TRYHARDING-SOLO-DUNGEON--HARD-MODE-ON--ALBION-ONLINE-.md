@@ -3,7 +3,7 @@ layout: post
 title: ' DTUBE TRYHARDING SOLO DUNGEON  HARD MODE ON  ALBION ONLINE '
 author: 'dirapa'
 categories: [ dtubegaming,gaming,gameplay,video ]
-image: https://snap1.d.tube/ipfs/QmYA2UjfxCfjBz23ANsSBqr4UXYfBxYSVxYj3S3ACf14Yk
+image: 'https://snap1.d.tube/ipfs/QmYA2UjfxCfjBz23ANsSBqr4UXYfBxYSVxYj3S3ACf14Yk'
 featured: false
 hidden: false
 ---

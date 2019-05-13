@@ -3,7 +3,7 @@ layout: post
 title: 'New record  Frags Fortnite Easy'
 author: 'rozioo'
 categories: [ gaming,fortnite,steemc,dtubegaming ]
-image: https://snap1.d.tube/ipfs/QmPzZcntPjDwoePxpJc3BZHAJnNFfvkRnBxMR4xcdWXrrG
+image: 'https://snap1.d.tube/ipfs/QmPzZcntPjDwoePxpJc3BZHAJnNFfvkRnBxMR4xcdWXrrG'
 featured: false
 hidden: false
 ---

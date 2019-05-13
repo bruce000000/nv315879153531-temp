@@ -3,7 +3,7 @@ layout: post
 title: 'Trying beat my shadow  '
 author: 'sirpeter77'
 categories: [ #sports #kickboxing #passion #polish #sirpeter77 ]
-image: https://snap1.d.tube/ipfs/QmbodKq1BN1gUeYvbnnrNeLJG5xwscm4u8gPyvtG3A6NPp
+image: 'https://snap1.d.tube/ipfs/QmbodKq1BN1gUeYvbnnrNeLJG5xwscm4u8gPyvtG3A6NPp'
 featured: false
 hidden: false
 ---

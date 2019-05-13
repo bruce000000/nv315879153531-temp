@@ -3,7 +3,7 @@ layout: post
 title: 'Persevere Even When Doubt Is In The  Air'
 author: 'dmilliz'
 categories: [ life,motivation,positivity,thoughts ]
-image: https://snap1.d.tube/ipfs/QmZ1vQf1Y3uVT2CGXaVULHNatUkDB54WXRhFQNy1Px8XHf
+image: 'https://snap1.d.tube/ipfs/QmZ1vQf1Y3uVT2CGXaVULHNatUkDB54WXRhFQNy1Px8XHf'
 featured: false
 hidden: false
 ---

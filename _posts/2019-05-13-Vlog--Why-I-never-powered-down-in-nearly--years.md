@@ -3,7 +3,7 @@ layout: post
 title: 'Vlog  Why I never powered down in nearly  years'
 author: 'exyle'
 categories: [ exyle ]
-image: https://snap1.d.tube/ipfs/QmSG6TyYiErgNmPQVfLzC231i46SaPq3Wb7s8GBVSSNeiE
+image: 'https://snap1.d.tube/ipfs/QmSG6TyYiErgNmPQVfLzC231i46SaPq3Wb7s8GBVSSNeiE'
 featured: false
 hidden: false
 ---

@@ -3,7 +3,7 @@ layout: post
 title: ' SteemitSteemPower UpSP'
 author: 'sasaadrian'
 categories: [ ddaily,dtubedaily,onelovedtube,cn ]
-image: https://snap1.d.tube/ipfs/QmZtReEaqg8RvTmmRutBqyftL8W3Nww6bxp7GbazAGURd8
+image: 'https://snap1.d.tube/ipfs/QmZtReEaqg8RvTmmRutBqyftL8W3Nww6bxp7GbazAGURd8'
 featured: false
 hidden: false
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 'DTube GAMING  DEAD SPACE  '
 author: 'voxmortis'
 categories: [ dtubegaming,polish,archdruid,steemgc ]
-image: https://snap1.d.tube/ipfs/QmZsZcdykJPJtqhEJsZSbwQYZXAbD2pSKPCM5R5aRvnfvs
+image: 'https://snap1.d.tube/ipfs/QmZsZcdykJPJtqhEJsZSbwQYZXAbD2pSKPCM5R5aRvnfvs'
 featured: false
 hidden: false
 ---

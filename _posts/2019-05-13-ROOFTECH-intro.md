@@ -3,7 +3,7 @@ layout: post
 title: 'ROOFTECH intro'
 author: 'fangir'
 categories: [ dtube,rooftech,vlog,work ]
-image: https://snap1.d.tube/ipfs/QmbLenoBKgwqjpjm6AxZ8v5qcnysDnfSLXyBfRzM1hVNNX
+image: 'https://snap1.d.tube/ipfs/QmbLenoBKgwqjpjm6AxZ8v5qcnysDnfSLXyBfRzM1hVNNX'
 featured: false
 hidden: false
 ---

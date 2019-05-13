@@ -3,7 +3,7 @@ layout: post
 title: ' Nicht Bitcoin sondern Web  BTC Trading Volumen Rekord  Dollar Wertverlust Bitcoin Rally '
 author: 'denniskoray'
 categories: [ bitcoin,deutsch,cryptocurrency,blockchain ]
-image: https://snap1.d.tube/ipfs/QmQZA7jF8mF6PVLG2oxQq25gfnAdYFYtjgVjuQPQJwVBFd
+image: 'https://snap1.d.tube/ipfs/QmQZA7jF8mF6PVLG2oxQq25gfnAdYFYtjgVjuQPQJwVBFd'
 featured: false
 hidden: false
 ---

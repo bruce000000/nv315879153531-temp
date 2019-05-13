@@ -3,7 +3,7 @@ layout: post
 title: 'Gravel Ride Around The Lake With My Surly Ogre'
 author: 'romafedorov'
 categories: [ cycling,thailand,travel,vlog ]
-image: https://snap1.d.tube/ipfs/QmaED7CrXqNkZPQQpN5ov6x61rgn8hha2gQ5q3yC4fRNFi
+image: 'https://snap1.d.tube/ipfs/QmaED7CrXqNkZPQQpN5ov6x61rgn8hha2gQ5q3yC4fRNFi'
 featured: false
 hidden: false
 ---

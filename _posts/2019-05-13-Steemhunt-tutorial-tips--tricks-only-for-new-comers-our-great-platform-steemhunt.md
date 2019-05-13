@@ -3,7 +3,7 @@ layout: post
 title: 'Steemhunt tutorial tips  tricks only for new comers our great platform steemhunt'
 author: 'mamun123456'
 categories: [ steemhunt,tutorial,tips,newcomers ]
-image: https://snap1.d.tube/ipfs/Qmc4QLmtfCG4hSyeCdGqrFGwdckiwWW1PgccNwcNJNWmur
+image: 'https://snap1.d.tube/ipfs/Qmc4QLmtfCG4hSyeCdGqrFGwdckiwWW1PgccNwcNJNWmur'
 featured: false
 hidden: false
 ---

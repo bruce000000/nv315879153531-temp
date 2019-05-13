@@ -3,7 +3,7 @@ layout: post
 title: 'LAST STATE OF THE PROJECT dtubeforum '
 author: 'dtube.forum'
 categories: [ dtube,dtubeforum,event,fundition-nki4yaz5z ]
-image: https://snap1.d.tube/ipfs/QmZUyLJr1UAUc3gVgAH5Ghuec3ZsdN9z835ppHMoPvEDuC
+image: 'https://snap1.d.tube/ipfs/QmZUyLJr1UAUc3gVgAH5Ghuec3ZsdN9z835ppHMoPvEDuC'
 featured: false
 hidden: false
 ---

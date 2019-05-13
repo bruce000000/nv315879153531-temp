@@ -3,7 +3,7 @@ layout: post
 title: 'Just added cycling to my daily exercise routine and it feels GOOD'
 author: 'knowhow92'
 categories: [ vlog,cycling,exercise,fitness ]
-image: https://snap1.d.tube/ipfs/QmVRhHYncz9yX8gC6Xppb5CNR3YVy654JXPj9W9UQzyntj
+image: 'https://snap1.d.tube/ipfs/QmVRhHYncz9yX8gC6Xppb5CNR3YVy654JXPj9W9UQzyntj'
 featured: false
 hidden: false
 ---

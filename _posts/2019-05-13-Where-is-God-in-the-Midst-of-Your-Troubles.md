@@ -3,7 +3,7 @@ layout: post
 title: 'Where is God in the Midst of Your Troubles'
 author: 'thoughtfultalks'
 categories: [ suffering,trouble,god,life ]
-image: https://snap1.d.tube/ipfs/QmcCMsGpWPecGvAZQQWDw7fjC3FV6qNLBvi3jMJZ584ULa
+image: 'https://snap1.d.tube/ipfs/QmcCMsGpWPecGvAZQQWDw7fjC3FV6qNLBvi3jMJZ584ULa'
 featured: false
 hidden: false
 ---

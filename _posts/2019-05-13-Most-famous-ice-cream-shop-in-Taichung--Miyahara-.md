@@ -3,7 +3,7 @@ layout: post
 title: 'Most famous ice cream shop in Taichung  Miyahara '
 author: 'joythewanderer'
 categories: [ ddaily,vlog,food,taiwan ]
-image: https://snap1.d.tube/ipfs/QmXxFxSpQGwgxDbirNETsEw7mMpALcK4jd9D4bZv77AhX5
+image: 'https://snap1.d.tube/ipfs/QmXxFxSpQGwgxDbirNETsEw7mMpALcK4jd9D4bZv77AhX5'
 featured: false
 hidden: false
 ---

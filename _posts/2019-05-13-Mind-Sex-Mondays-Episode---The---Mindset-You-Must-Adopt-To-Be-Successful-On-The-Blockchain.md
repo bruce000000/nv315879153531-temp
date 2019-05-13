@@ -3,7 +3,7 @@ layout: post
 title: 'Mind Sex Mondays Episode   The   Mindset You Must Adopt To Be Successful On The Blockchain'
 author: 'bobaphet'
 categories: [ philosophy,spirituality,steem,teamaustralia ]
-image: https://snap1.d.tube/ipfs/QmSSYaTyZakkZTH6MHeLd54UAki75Uy7yJqDJcXjbDziTn
+image: 'https://snap1.d.tube/ipfs/QmSSYaTyZakkZTH6MHeLd54UAki75Uy7yJqDJcXjbDziTn'
 featured: false
 hidden: false
 ---

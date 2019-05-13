@@ -3,7 +3,7 @@ layout: post
 title: 'days portraits challenge '
 author: 'aellly'
 categories: [ cn,diytube,cn-reader ]
-image: https://snap1.d.tube/ipfs/QmSUetyx7HXBDPrLz12sXq7YnHqzoGaDZSsa718vGNBs9v
+image: 'https://snap1.d.tube/ipfs/QmSUetyx7HXBDPrLz12sXq7YnHqzoGaDZSsa718vGNBs9v'
 featured: false
 hidden: false
 ---

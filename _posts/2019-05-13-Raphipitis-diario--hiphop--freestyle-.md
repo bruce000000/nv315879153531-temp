@@ -3,7 +3,7 @@ layout: post
 title: 'Raphipitis diario  hiphop  freestyle '
 author: 'purapapita'
 categories: [ spanish,cervantes,musica,castellano ]
-image: https://snap1.d.tube/ipfs/QmV9XQ2V43jUs7HeREU3i5gTFFK9WdaajX75RbzYaZBeqn
+image: 'https://snap1.d.tube/ipfs/QmV9XQ2V43jUs7HeREU3i5gTFFK9WdaajX75RbzYaZBeqn'
 featured: false
 hidden: false
 ---

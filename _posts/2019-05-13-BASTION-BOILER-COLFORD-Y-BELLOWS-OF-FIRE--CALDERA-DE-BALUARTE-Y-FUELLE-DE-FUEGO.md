@@ -3,7 +3,7 @@ layout: post
 title: 'BASTION BOILER COLFORD Y BELLOWS OF FIRE  CALDERA DE BALUARTE Y FUELLE DE FUEGO'
 author: 'yosuandoni'
 categories: [ gaming,archdruid,steemgc,talentclub ]
-image: https://snap1.d.tube/ipfs/QmaenU3ifnhVWKhgVdABLRHWsu8pq6hariR17FW7Gcbs3q
+image: 'https://snap1.d.tube/ipfs/QmaenU3ifnhVWKhgVdABLRHWsu8pq6hariR17FW7Gcbs3q'
 featured: false
 hidden: false
 ---

@@ -3,7 +3,7 @@ layout: post
 title: ' Having Crepes And Be a Philosopher'
 author: 'iyuta'
 categories: [ food,travel,japanese,poland ]
-image: https://snap1.d.tube/ipfs/QmUGnBneG5qoiXhLRh8RrTxQkZroyFvDBbrZ5VApavaMh1
+image: 'https://snap1.d.tube/ipfs/QmUGnBneG5qoiXhLRh8RrTxQkZroyFvDBbrZ5VApavaMh1'
 featured: false
 hidden: false
 ---

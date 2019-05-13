@@ -3,7 +3,7 @@ layout: post
 title: 'Clean Planet Bag  jubilee on '
 author: 'dailyplogger'
 categories: [ cleanplanet,onewasteaday,life,nature ]
-image: https://snap1.d.tube/ipfs/QmQeD5y5j4KUueFN7pMciwC6r5pe5T9PKgwbgK3BFyszxC
+image: 'https://snap1.d.tube/ipfs/QmQeD5y5j4KUueFN7pMciwC6r5pe5T9PKgwbgK3BFyszxC'
 featured: false
 hidden: false
 ---

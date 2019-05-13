@@ -3,7 +3,7 @@ layout: post
 title: 'The Cure for Your Lonely HeartComparing John   John '
 author: 'thoughtfultalks'
 categories: [ loneliness,heart,god,love ]
-image: https://snap1.d.tube/ipfs/QmeBa1iAbKkBAcRXSkEZdV75rnRmrQYwTWKHTyQAaojpUd
+image: 'https://snap1.d.tube/ipfs/QmeBa1iAbKkBAcRXSkEZdV75rnRmrQYwTWKHTyQAaojpUd'
 featured: false
 hidden: false
 ---
