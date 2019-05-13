@@ -5,10 +5,12 @@ author: camuel
 categories: [ ddaily, hiking, family, vlog ]
 image: https://snap1.d.tube/ipfs/QmWFCajLw3iJifHkDhnCgxKysSje9n8nVU1DCQX4uiQqnp
 # description: "My review of Inception movie. Acting, plot and something else in this short description."
-featured: false
+featured: true
 hidden: true
 rating: 4.5
 ---
+
+<video poster="https://snap1.d.tube/ipfs/QmWFCajLw3iJifHkDhnCgxKysSje9n8nVU1DCQX4uiQqnp" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmUbKWweJT2VCrYdGXHs4q8z5WEtjitJcY3KqPZZbY6ZJq"></video>
 
 We had a rare family day out, thanks to my lovely wife's making us all get out the house. We're so blessed to live where we do and we rarely take advantage of it as a family, which is a real shame. We'll definitely get back up there again later in the year for some swimming. 
 
