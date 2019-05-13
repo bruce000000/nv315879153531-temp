@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'What is Dtube? - A blocktrades sponsored contest"'
+title: 'What is Dtube  A blocktrades sponsored contest'
 author: 'afrinsultana'
 categories: [ blocktrades,blocktradescontest,steemonboarding,life ]
 image: https://snap1.d.tube/ipfs/QmRmkb9kFhyHBPw4ysTy4pGjw18dqc2NxWNZSE5WfV335b

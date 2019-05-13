@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '¡BITCOIN EXTRA ANALISIS! 😬 CRYPTONEWS 2019'
+title: 'BITCOIN EXTRA ANALISIS  CRYPTONEWS '
 author: 'funontheride'
 categories: [ bitcoin,btc,crypto,funontheride ]
 image: https://snap1.d.tube/ipfs/QmVNqjWD3qQeYqYv5e7VVSLkbhDLQq4TrsZ7Q5ZbKjfqz1

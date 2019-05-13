@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '🎬🎼 PLAYING Setar- how to play the first and second Wire of Setar (tutorial)  (video number 23 ) - by  @makpic - enjoy ! 🎬🎼 my video is at Dtube'
+title: ' PLAYING Setar how to play the first and second Wire of Setar tutorial  video number    by  makpic  enjoy   my video is at Dtube'
 author: 'makpic'
 categories: [ ddaily,artzone,ocd-resteem,diytube ]
 image: https://snap1.d.tube/ipfs/QmVDTsnJn3pSmQJtoMoXKvPPzgBqpoREwymAUdEraTfoc3

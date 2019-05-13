@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SPLINTERLANDS ⚙️ GRIND | #173'
+title: 'SPLINTERLANDS  GRIND  '
 author: 'bittrio'
 categories: [ splinterlands,steemmonsters,dtubedaily,gaming ]
 image: https://snap1.d.tube/ipfs/QmVm7ebKMZkh8iQjagAcmR1m31Xsih7utKegQdyWnhwm6V

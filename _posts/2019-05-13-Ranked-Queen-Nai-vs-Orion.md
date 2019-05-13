@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Ranked] Queen Nai vs Orion'
+title: 'Ranked Queen Nai vs Orion'
 author: 'atnazo'
 categories: [ dtubegaming,gaming,games,ocd-resteem ]
 image: https://snap1.d.tube/ipfs/QmRFK2jvGJHnLsxZWHa6ab6FcfBgPCfXRLvx1ZKJspQVVp

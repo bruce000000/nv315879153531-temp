@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#011 | Lets Play Kingdom Hearts 3 | German | Deutsch'
+title: '  Lets Play Kingdom Hearts   German  Deutsch'
 author: 'letsplayegamer'
 categories: [ kingdomhearts3,deutsch,german,egamersnetworktv ]
 image: https://snap1.d.tube/ipfs/QmTb2HtsBtPkxAs2tfA2dBeJGZDf4jRVE35jbxearzg3Q2

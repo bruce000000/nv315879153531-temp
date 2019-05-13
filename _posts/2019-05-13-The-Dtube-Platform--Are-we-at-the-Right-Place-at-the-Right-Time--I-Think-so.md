@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Dtube Platform - Are we at the Right Place at the Right Time ( I Think so)'
+title: 'The Dtube Platform  Are we at the Right Place at the Right Time  I Think so'
 author: 'robertandrew'
 categories: [ ddaily,dtuberockers,onelovedtube,dcooperation ]
 image: https://snap1.d.tube/ipfs/QmVc2GMadgPDex12cerUA9ZYsJ6gf4juSVeGiYkbxbLX7K

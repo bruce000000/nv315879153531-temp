@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DrugWars.io Criticism/Review (Rage?) '
+title: 'DrugWarsio CriticismReview Rage '
 author: 'joeyadrian'
 categories: [ dapp,drugwars,criticism,review ]
 image: https://snap1.d.tube/ipfs/QmWi5SYAHkhEbVmWGWKFcRWBStfLVcfs7oN3h9PqbsMzbi

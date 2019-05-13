@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CSS'in Style attributunun HTML'də istifadəsi (Hissə 1) // The using in HTML of CSS's Style attribute (Part 1)'
+title: 'CSSin Style attributunun HTMLd istifadsi Hiss   The using in HTML of CSSs Style attribute Part '
 author: 'cameron99'
 categories: [ dtube,tutorial,programming,html ]
 image: https://snap1.d.tube/ipfs/QmbD6GGBWP3qdr6ELQJ9G2ABzykFPvonvf55oBtQTasWYd

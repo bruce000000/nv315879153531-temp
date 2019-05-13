@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '1x WINNER'S announcement of the Beta Gold Highland Archer card Giveaway winner #187 👊 No Upvote, No Resteem, No Follow Required!'
+title: 'x WINNERS announcement of the Beta Gold Highland Archer card Giveaway winner   No Upvote No Resteem No Follow Required'
 author: 'shoemanchu'
 categories: [ dtubesnap,contestkings,steemmonsters,contest ]
 image: https://snap1.d.tube/ipfs/QmUC3j49fFZT9ntYu9sndKNkiJW4iMUZiz4u6e5FDs9AdF

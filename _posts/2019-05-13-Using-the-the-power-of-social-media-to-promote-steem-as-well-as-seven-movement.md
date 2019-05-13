@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Using the the power of social media to promote steem as well as seven77 movement.'
+title: 'Using the the power of social media to promote steem as well as seven movement'
 author: 'certain'
 categories: [ steem,seven77,steemit ]
 image: https://snap1.d.tube/ipfs/QmVz3hF95oA98YgC4U8TAuVTpnvxiNyj4EfjxGy6C8ijYy

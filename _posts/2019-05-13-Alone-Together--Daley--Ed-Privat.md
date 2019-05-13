@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Alone Together - Daley - Ed Privat'
+title: 'Alone Together  Daley  Ed Privat'
 author: 'edprivat'
 categories: [ music,onelovedtube,song,steemit ]
 image: https://snap1.d.tube/ipfs/QmZY1BPTwG16QPvfgADsXTsBWvTVGurP8XdqrypMsYFKRH

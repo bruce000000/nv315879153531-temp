@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fnux - Guayaba (original)'
+title: 'Fnux  Guayaba original'
 author: 'fnux'
 categories: [ spanish,cervantes,musica,art ]
 image: https://snap1.d.tube/ipfs/QmZJ6ixJNtsDr6PR1cPeXcwnH7zNNMzaexCj8uGNkxbgc7

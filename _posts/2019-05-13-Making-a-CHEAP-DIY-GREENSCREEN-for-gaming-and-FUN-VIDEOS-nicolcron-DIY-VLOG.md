@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Making a CHEAP DIY GREENSCREEN for gaming and FUN VIDEOS! @nicolcron DIY VLOG'
+title: 'Making a CHEAP DIY GREENSCREEN for gaming and FUN VIDEOS nicolcron DIY VLOG'
 author: 'nicolcron'
 categories: [ dtuber,ddaily,diy,homemade ]
 image: https://snap1.d.tube/ipfs/QmRoZhsmxdX9LqXbxvb9bWFqftrWkEKq5kkYJz1KhHQn5u

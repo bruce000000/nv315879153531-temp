@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dtube News Covering Series Episode #17 | News report / Coverage from all over Dtube community  Dated 13th May 2019'
+title: 'Dtube News Covering Series Episode   News report  Coverage from all over Dtube community  Dated th May '
 author: 'freecrypto'
 categories: [ dtube-news,news,vlog,coverage ]
 image: https://snap1.d.tube/ipfs/QmZ3joANzjqaxtCUEqkkWguHePX3qqaJcoHuUSpdEdwHcG

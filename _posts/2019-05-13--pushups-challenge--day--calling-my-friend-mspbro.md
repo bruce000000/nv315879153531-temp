@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '7 push-ups challenge ( day-57)  calling my friend @mspbro'
+title: ' pushups challenge  day  calling my friend mspbro'
 author: 'ridoykhan22'
 categories: [ seven77,nathanmars,ddaily ]
 image: https://snap1.d.tube/ipfs/QmUpMZdKhNArGMaFU26UHzh6azSkMYjcaYUj1vZnpEmY8x

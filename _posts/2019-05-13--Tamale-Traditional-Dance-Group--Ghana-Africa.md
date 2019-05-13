@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ' Tamale Traditional Dance Group - Ghana, Africa'
+title: ' Tamale Traditional Dance Group  Ghana Africa'
 author: 'for91days'
 categories: [ ghana,africa,dance,music ]
 image: https://snap1.d.tube/ipfs/QmSoM2XLBQ4mrsdRbYjPAxPEbDLW2SosmMjVzuHwtoECar

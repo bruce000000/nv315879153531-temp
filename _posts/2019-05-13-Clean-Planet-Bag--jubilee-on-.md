@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clean Planet Bag #50 (jubilee!) on 13.05.2019'
+title: 'Clean Planet Bag  jubilee on '
 author: 'dailyplogger'
 categories: [ cleanplanet,onewasteaday,life,nature ]
 image: https://snap1.d.tube/ipfs/QmQeD5y5j4KUueFN7pMciwC6r5pe5T9PKgwbgK3BFyszxC

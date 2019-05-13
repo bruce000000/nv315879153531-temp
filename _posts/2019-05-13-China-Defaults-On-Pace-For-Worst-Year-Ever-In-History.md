@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'China Defaults On Pace For Worst Year Ever In History!'
+title: 'China Defaults On Pace For Worst Year Ever In History'
 author: 'themoneygps'
 categories: [ china,yuan,debt,trump ]
 image: https://snap1.d.tube/ipfs/QmWkhV6rPgqyavsmviPE8B3pVZMj4RiJYT9BRfi65oFRfL

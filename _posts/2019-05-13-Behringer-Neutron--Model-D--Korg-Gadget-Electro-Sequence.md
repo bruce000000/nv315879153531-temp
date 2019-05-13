@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Behringer Neutron , Model D & Korg Gadget (Electro Sequence)'
+title: 'Behringer Neutron  Model D  Korg Gadget Electro Sequence'
 author: 'toddjsmith1979'
 categories: [ onelovedtube,synthesizer,dtubedaily ]
 image: https://snap1.d.tube/ipfs/QmTPKeguy1Rm45o2nnfn47QWB5fNJFUoHcUo4Wk42yQKbq

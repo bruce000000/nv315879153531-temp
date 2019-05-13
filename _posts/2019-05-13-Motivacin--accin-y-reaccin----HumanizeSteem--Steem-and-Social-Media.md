@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Motivación 2019 acción y reacción 👽🎇 🇻🇪 #68 #HumanizeSteem - Steem and Social Media'
+title: 'Motivacin  accin y reaccin    HumanizeSteem  Steem and Social Media'
 author: 'purapapita'
 categories: [ humanizesteem,seven77,steem,spanish ]
 image: https://snap1.d.tube/ipfs/QmVByoM2otH34AQVtHqZgnmSW4v6AjJyh2Horgt4uj4vzL

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New record 13 Frags! Fortnite! #Easy'
+title: 'New record  Frags Fortnite Easy'
 author: 'rozioo'
 categories: [ gaming,fortnite,steemc,dtubegaming ]
 image: https://snap1.d.tube/ipfs/QmPzZcntPjDwoePxpJc3BZHAJnNFfvkRnBxMR4xcdWXrrG

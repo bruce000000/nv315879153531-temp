@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Next Financial Crisis Should Be Blamed on the Federal Reserve.'
+title: 'The Next Financial Crisis Should Be Blamed on the Federal Reserve'
 author: 'maneco64'
 categories: [ market,economics,money,banking ]
 image: https://snap1.d.tube/ipfs/QmWAYVvdx1jBcAckxM7tfb44zTH3vhjGnfHwoEPxRbpSsb
