@@ -5,7 +5,7 @@ author: camuel
 categories: [ ddaily, hiking, family, vlog ]
 image: assets/images/17.jpg
 featured: false
-hidden: true
+hidden: false
 ---
 
 <video poster="https://snap1.d.tube/ipfs/QmWFCajLw3iJifHkDhnCgxKysSje9n8nVU1DCQX4uiQqnp" autoplay="" id="player_html5_api" class="vjs-tech" style="width: 100%; height: 100%;" tabindex="-1" src="https://video.dtube.top/ipfs/QmUbKWweJT2VCrYdGXHs4q8z5WEtjitJcY3KqPZZbY6ZJq"></video>
