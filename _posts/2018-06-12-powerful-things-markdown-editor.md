@@ -3,7 +3,7 @@ layout: post
 title:  "Family Hike to the Blue Pools"
 author: camuel
 categories: [ ddaily, hiking, family, vlog ]
-image: https://snap1.d.tube/ipfs/QmWFCajLw3iJifHkDhnCgxKysSje9n8nVU1DCQX4uiQqnp
+image: assets/images/17.jpg
 featured: false
 hidden: true
 ---
