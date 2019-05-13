@@ -2,7 +2,7 @@
 layout: post
 title:  "Driving In Port Louis in the rain"
 author: dkkarolien
-categories: #dtube,#mauritius,#travel,#drivingonanisland
+categories: [ #dtube,#mauritius,#travel,#drivingonanisland ]
 image: https://snap1.d.tube/ipfs/QmTdsnGZKnTtMB7AnbXjuhmVf2P7N7VjEFXVVKBD2dxfVx
 featured: false
 hidden: false

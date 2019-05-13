@@ -2,7 +2,7 @@
 layout: post
 title:  "【攻略】 Steemit新手秘技系列第三彈(Steem錢包及Power Up能量SP操作示範)"
 author: sasaadrian
-categories: ddaily,dtubedaily,onelovedtube,cn
+categories: [ ddaily,dtubedaily,onelovedtube,cn ]
 image: https://snap1.d.tube/ipfs/QmZtReEaqg8RvTmmRutBqyftL8W3Nww6bxp7GbazAGURd8
 featured: false
 hidden: false

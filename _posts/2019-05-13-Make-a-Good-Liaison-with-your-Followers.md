@@ -2,7 +2,7 @@
 layout: post
 title:  "Make a Good Liaison with your Followers"
 author: hafizullah
-categories: mindset,connectivity,engagement,steem
+categories: [ mindset,connectivity,engagement,steem ]
 image: https://snap1.d.tube/ipfs/Qmf5BTTqKFWrU6jSybnYdrvTHEWQzor9eajhXiiDNW796m
 featured: false
 hidden: false

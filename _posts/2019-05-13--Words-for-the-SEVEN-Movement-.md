@@ -2,7 +2,7 @@
 layout: post
 title:  "7 Words for the SEVEN77 Movement! "
 author: clove71
-categories: seven77,dtubedaily,onelovedtube,community
+categories: [ seven77,dtubedaily,onelovedtube,community ]
 image: https://snap1.d.tube/ipfs/QmedM7fAq8No4zFgucG38BmbWqJrpGkbyhdtQQacTWT6jB
 featured: false
 hidden: false

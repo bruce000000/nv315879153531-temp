@@ -2,7 +2,7 @@
 layout: post
 title:  "Crypto Trading with TobeTada! | 13-05-2019 | BTC Fractal 7000$ - 5200$"
 author: tobetada
-categories: bitcoin,btc,crypto,trading
+categories: [ bitcoin,btc,crypto,trading ]
 image: https://snap1.d.tube/ipfs/Qmc6nyAJLBJB5jYF9uWUtLBsbKgMpJjehattb1yunj9K8q
 featured: false
 hidden: false

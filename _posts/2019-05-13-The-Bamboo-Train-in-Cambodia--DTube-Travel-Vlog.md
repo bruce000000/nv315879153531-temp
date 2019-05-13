@@ -2,7 +2,7 @@
 layout: post
 title:  "The Bamboo Train in Cambodia - DTube Travel Vlog"
 author: thelifeofjord
-categories: dtube,life,travel,vlog
+categories: [ dtube,life,travel,vlog ]
 image: https://snap1.d.tube/ipfs/QmddYjkTMB5uzwWLSbt668tLeEcvncoTgk6YBtu46rnBYk
 featured: false
 hidden: false

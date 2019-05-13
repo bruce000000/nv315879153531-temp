@@ -2,7 +2,7 @@
 layout: post
 title:  "Unboxing: What I made for Mother's Day 💐? Plus special footage at the end 😃"
 author: vincy
-categories: vlog,life,steemitmamas,teamaustralia
+categories: [ vlog,life,steemitmamas,teamaustralia ]
 image: https://snap1.d.tube/ipfs/QmZcuBApuYEYKCoQqY3JDrLXhDFmWwth4JQwFwqzEr8Bx2
 featured: false
 hidden: false

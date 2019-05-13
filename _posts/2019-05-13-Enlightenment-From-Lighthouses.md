@@ -2,7 +2,7 @@
 layout: post
 title:  "Enlightenment From Lighthouses"
 author: ericdubay
-categories: flat,earth,lighthouse,lighthouses
+categories: [ flat,earth,lighthouse,lighthouses ]
 image: https://snap1.d.tube/ipfs/QmVMyh8ESsW9VoREkfQcKtQmc1vRpscxY4qKGXM6CWxiKX
 featured: false
 hidden: false

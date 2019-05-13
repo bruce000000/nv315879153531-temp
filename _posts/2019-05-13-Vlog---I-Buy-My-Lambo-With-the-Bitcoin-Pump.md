@@ -2,7 +2,7 @@
 layout: post
 title:  "Vlog #326 - I Buy My Lambo With the Bitcoin Pump!"
 author: chesatochi
-categories: dtube,dtubedaily,powerhousecreatives,cryptocurrency
+categories: [ dtube,dtubedaily,powerhousecreatives,cryptocurrency ]
 image: https://snap1.d.tube/ipfs/QmVpiJe6jEKaXPXsfrvgwNnJrppAjQA1BTe26sZFm4BsKV
 featured: false
 hidden: false

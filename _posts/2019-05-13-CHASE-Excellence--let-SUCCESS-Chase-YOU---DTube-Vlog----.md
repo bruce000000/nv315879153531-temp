@@ -2,7 +2,7 @@
 layout: post
 title:  "CHASE Excellence & let SUCCESS Chase YOU ! | DTube Vlog - 198 | 🔥"
 author: steemersayu907
-categories: life,vlog,drisers,india
+categories: [ life,vlog,drisers,india ]
 image: https://snap1.d.tube/ipfs/QmcreJRrhXVSzBHgAgwcBiKoMsecgkkTUrLF3T2Jdrg2gm
 featured: false
 hidden: false

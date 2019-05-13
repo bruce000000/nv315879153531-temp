@@ -2,7 +2,7 @@
 layout: post
 title:  "SPLINTERLANDS ⚙️ GRIND | #173"
 author: bittrio
-categories: splinterlands,steemmonsters,dtubedaily,gaming
+categories: [ splinterlands,steemmonsters,dtubedaily,gaming ]
 image: https://snap1.d.tube/ipfs/QmVm7ebKMZkh8iQjagAcmR1m31Xsih7utKegQdyWnhwm6V
 featured: false
 hidden: false

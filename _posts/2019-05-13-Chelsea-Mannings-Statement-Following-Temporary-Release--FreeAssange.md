@@ -2,7 +2,7 @@
 layout: post
 title:  "Chelsea Manning's Statement Following Temporary Release | #FreeAssange"
 author: unity4j
-categories: manning,unity4j,freeassange,wikileaks
+categories: [ manning,unity4j,freeassange,wikileaks ]
 image: https://snap1.d.tube/ipfs/QmYb82QQ3rHFKJCVMC3s8RE88YwUD2hCNyFU1jfPrqSPQa
 featured: false
 hidden: false

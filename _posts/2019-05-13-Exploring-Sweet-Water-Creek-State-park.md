@@ -2,7 +2,7 @@
 layout: post
 title:  "Exploring Sweet Water Creek State park"
 author: solominer
-categories: nature,hiking,thundercurator,georgia
+categories: [ nature,hiking,thundercurator,georgia ]
 image: https://snap1.d.tube/ipfs/Qmf3NWNWd9TAbu8aHh1pfavRaozBPJ9CJXP2V18UTfmsiP
 featured: false
 hidden: false

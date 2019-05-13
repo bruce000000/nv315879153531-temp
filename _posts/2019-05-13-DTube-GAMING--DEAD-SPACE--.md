@@ -2,7 +2,7 @@
 layout: post
 title:  "DTube GAMING | DEAD SPACE 2 #11"
 author: voxmortis
-categories: dtubegaming,polish,archdruid,steemgc
+categories: [ dtubegaming,polish,archdruid,steemgc ]
 image: https://snap1.d.tube/ipfs/QmZsZcdykJPJtqhEJsZSbwQYZXAbD2pSKPCM5R5aRvnfvs
 featured: false
 hidden: false

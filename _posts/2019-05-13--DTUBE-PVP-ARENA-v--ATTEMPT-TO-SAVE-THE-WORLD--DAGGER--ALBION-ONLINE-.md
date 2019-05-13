@@ -2,7 +2,7 @@
 layout: post
 title:  "⚔️ D.TUBE® PVP ARENA 5v5 | ATTEMPT TO SAVE THE WORLD | DAGGER | ALBION ONLINE ⚔️"
 author: dirapa
-categories: dtubegaming,gaming,gameplay,video
+categories: [ dtubegaming,gaming,gameplay,video ]
 image: https://snap1.d.tube/ipfs/QmRDwrf4kEuEgWKKkFkr9HjU4t6HDkZ2WTbYqviH9dtqgA
 featured: false
 hidden: false

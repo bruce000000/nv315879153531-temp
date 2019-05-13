@@ -2,7 +2,7 @@
 layout: post
 title:  "Library Dspace software : how to  install and practise."
 author: salmannaqvi
-categories: howto,install,dspace,education
+categories: [ howto,install,dspace,education ]
 image: https://snap1.d.tube/ipfs/QmbKe8hCJnEQo4W1ww1yvwPU2doTL4FUjxuFi8Tcnr5CW2
 featured: false
 hidden: false
