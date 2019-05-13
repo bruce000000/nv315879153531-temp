@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "77days portraits challenge #3【西瓜画坊】#77"
-author: aellly
+title:  '77days portraits challenge #3【西瓜画坊】#77'
+author: 'aellly'
 categories: [ cn,diytube,cn-reader ]
 image: https://snap1.d.tube/ipfs/QmSUetyx7HXBDPrLz12sXq7YnHqzoGaDZSsa718vGNBs9v
 featured: false

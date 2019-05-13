@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "❤️ 🎬Painting Beautiful Birdie  , with Colored Pencils Technique , art by @li-art❤️ video Exclusive Dtube❤️ ❤️"
-author: li-art
+title:  '❤️ 🎬Painting Beautiful Birdie  , with Colored Pencils Technique , art by @li-art❤️ video Exclusive Dtube❤️ ❤️'
+author: 'li-art'
 categories: [ ddaily,artzone,ocd-resteem,diytube ]
 image: https://snap1.d.tube/ipfs/QmaeLY1XXzvfegijHgBgjFUKX8KVxVXzSnfyUJPoMVvUXU
 featured: false
